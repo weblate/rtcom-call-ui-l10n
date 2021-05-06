@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-call-ui 20091123110947\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.23 11:09+0200\n"
+"PO-Revision-Date: 2009.11.23 11:09+0200\n"
+"Last-Translator:\n"
+"Language-Team: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "Timers wissen"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "Toetsenblok"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "Oproep starten"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "Beantwoorden"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "Weigeren"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "Oproeptype"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "Mobiel"
+
+msgid "call_bd_send"
+msgstr "Verzenden"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "Schermstand"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "Starten door te draaien"
+
+msgid "call_bd_skip"
+msgstr "Overslaan"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "Alle"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "Mobiele oproepen"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "Gekozen"
+
+msgid "call_fi_call_duration_received"
+msgstr "Ontvangen"
+
+msgid "call_fi_call_duration_voip"
+msgstr "Internetoproepen"
+
+msgid "call_fi_call_handling_camera"
+msgstr "Camera"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "Apparaat vergrendeld"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "Noodoproep"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – noodoproep"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "Beëindigen"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "Oproep"
+
+msgid "call_fi_call_handling_headset"
+msgstr "Headset"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "In wachtstand"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "Luidspreker"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "Privé"
+
+msgid "call_fi_call_header_active_call"
+msgstr "Actieve oproep"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "Act. opr."
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "Telefonische vergadering"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "Vergader."
+
+msgid "call_fi_call_header_ending"
+msgstr "Beëindigen"
+
+msgid "call_fi_call_header_held_call"
+msgstr "In wacht"
+
+msgid "call_fi_call_header_video_call"
+msgstr "Videogesprek"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "Onjuist nummer"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "Mobiel"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "Automatisch"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "Landschap"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "Portret"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "Geen accounts"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "Geen recente oproepen"
+
+msgid "call_ib_account_not_in_use"
+msgstr "Account niet in gebruik"
+
+msgid "call_ib_als_wrong_line"
+msgstr "Lijn 2 van SIM-kaart niet ondersteund. Wijzig SIM-kaart."
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "Audio overgebracht van headset naar apparaat"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "Audio overgebracht naar headset"
+
+msgid "call_ib_call_activated"
+msgstr "Oproep geactiveerd"
+
+msgid "call_ib_call_on_hold"
+msgstr "Oproep in wachtstand"
+
+msgid "call_ib_call_waiting"
+msgstr "Wachtstand"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "Verbindingsfout"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "Netwerk bezet"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "Kostenlimiet bereikt"
+
+msgid "call_ib_fdn_active"
+msgstr "Oproep niet toegestaan. Beperkt bellen actief."
+
+msgid "call_ib_not_allowed"
+msgstr "Oproep niet toegestaan"
+
+msgid "call_ib_not_available"
+msgstr "Niet beschikbaar"
+
+msgid "call_ib_number_not_in_use"
+msgstr "Nummer niet in gebruik"
+
+msgid "call_ib_request_not_completed"
+msgstr "Verzoek niet voltooid"
+
+msgid "call_ib_request_rejected"
+msgstr "Verzoek geweigerd"
+
+msgid "call_ib_sending_dtmf"
+msgstr "Bezig met verzenden van DTMF"
+
+msgid "call_ib_service_code_not_supported"
+msgstr "Servicecode niet ondersteund"
+
+msgid "call_ib_w_not_supported"
+msgstr "Letter 'w' niet ondersteund"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "Contactkaart openen"
+
+msgid "call_me_context_menu_delete"
+msgstr "Verwijderen"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "Nieuwe oproep naar contact"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "Nieuwe oproep naar nummer"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "Luidspreker uitschakelen"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "Luidspreker inschakelen"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "Telefonische vergadering"
+
+msgid "call_me_menu_call_video_call"
+msgstr "Video inschakelen"
+
+msgid "call_me_menu_merge_with"
+msgstr "Samenvoegen met contact"
+
+msgid "call_me_menu_new_contact"
+msgstr "Nieuwe contactpersoon"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "Oproep activeren"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "Recente oproepen wissen"
+
+msgid "call_me_menu_tools_duration"
+msgstr "Oproeptimers"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "Wachtstand beëindigen"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "Oproep in wachtstand zetten"
+
+msgid "call_me_menu_turning_control"
+msgstr "Draaiknop"
+
+msgid "call_nc_clear_all_calls"
+msgstr "Recente oproepen wissen?"
+
+msgid "call_nc_delete_call"
+msgstr "Verwijderen uit recente oproepen?"
+
+msgid "call_nc_end_call"
+msgstr "Actieve oproep beëindigen?"
+
+msgid "call_nc_end_calls"
+msgstr "Actieve oproepen beëindigen?"
+
+msgid "call_nc_requesting"
+msgstr "Bezig met verzoeken"
+
+msgid "call_ti_call_duration"
+msgstr "Oproeptimers"
+
+msgid "call_ti_call_type"
+msgstr "Oproeptype"
+
+msgid "call_ti_message"
+msgstr "Bericht"
+
+msgid "call_ti_set_turning_control"
+msgstr "Draaiknop"
+
+msgid "voip_ap_feature_name"
+msgstr "Telefoon"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "Sluiten"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "Oproep"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "Ontgrendelen"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "Bezig met verbinden"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "Bezig met bellen"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "Bellen"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "Bezet"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "Gesprek niet tot stand gebracht"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "Verbonden oproep verbroken"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "Geen antwoord"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "Oproep onbevoegd"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "Onjuist adres"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "Onbekend nummer"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "Huidig gesprek beëindigen om nieuw gesprek te starten"
+
+msgid "voip_ib_call_not_supported"
+msgstr "De toepassing van deze contactpersoon ondersteunt geen oproepen"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "Oproep ondersteunt geen DTMF-tonen"
+
+msgid "voip_ib_error_in_contact"
+msgstr "Kan geen verbinding maken"
+
+msgid "voip_ib_microphone_muted"
+msgstr "Microfoon gedempt"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "Demping van microfoon opgeheven"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "Onvoldoende geheugen"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr ""
+"Kan oproep niet accepteren.\n"
+"Onvoldoende geheugen."
+
+msgid "voip_ib_undefined_error"
+msgstr "Algemene fout"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "Accounts"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr ""
+"Codec niet compatibel met andere partij.\n"
+"Kan gesprek niet starten."
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "Toetsenblok"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "Toetsenblok"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "Toetsenblok"

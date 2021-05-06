@@ -1,0 +1,357 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-call-ui 20091123110947\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.23 11:09+0200\n"
+"PO-Revision-Date: 2009.11.23 11:09+0200\n"
+"Last-Translator:\n"
+"Language-Team: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "Azzera timer"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "Tastiera"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "Seleziona contatto"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "Rispondi"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "Rifiuta"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "Tipo chiamata"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "Cellulare"
+
+msgid "call_bd_send"
+msgstr "Invia"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "Rotazione dello schermo"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "Avvia tramite rotazione"
+
+msgid "call_bd_skip"
+msgstr "Annulla"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "Tutte"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "Chiamate cellulare"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "Effettuate"
+
+msgid "call_fi_call_duration_received"
+msgstr "Ricevute"
+
+msgid "call_fi_call_duration_voip"
+msgstr "Chiamate Internet"
+
+msgid "call_fi_call_handling_camera"
+msgstr "Fotocamera"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "Dispositivo bloccato"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr ""
+"Chiam. di\n"
+"emergenza"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – Chiamata d'emergenza"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "Chiudi"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "Chiama"
+
+msgid "call_fi_call_handling_headset"
+msgstr "Auricolare"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "Chiamata in attesa"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "Altoparlante"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "Privata"
+
+msgid "call_fi_call_header_active_call"
+msgstr "Chiamata attiva"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "Ch. attiva"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "Chiamata in conferenza"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "Conferenza"
+
+msgid "call_fi_call_header_ending"
+msgstr "Ch. chiusa"
+
+msgid "call_fi_call_header_held_call"
+msgstr "In attesa"
+
+msgid "call_fi_call_header_video_call"
+msgstr "Videochiamata"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "Numero non corretto"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "Cellulare"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "Automatica"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "Paesaggio"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "Sempre verticale"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "Nessun account"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "Nessuna chiamata recente"
+
+msgid "call_ib_account_not_in_use"
+msgstr "Account non in uso"
+
+msgid "call_ib_als_wrong_line"
+msgstr "Linea 2 della scheda SIM non supportata. Cambiare scheda SIM."
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "Audio trasferito dall'auricolare al dispositivo"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "Audio trasferito all'auricolare"
+
+msgid "call_ib_call_activated"
+msgstr "Chiamata attivata"
+
+msgid "call_ib_call_on_hold"
+msgstr "Chiamata in attesa"
+
+msgid "call_ib_call_waiting"
+msgstr "Chiamata in attesa"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "Errore di connessione"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "Rete occupata"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "Credito telefonico terminato"
+
+msgid "call_ib_fdn_active"
+msgstr "Chiamata non consentita. Composizione fissa attiva."
+
+msgid "call_ib_not_allowed"
+msgstr "Chiamata non consentita"
+
+msgid "call_ib_not_available"
+msgstr "Non disponibile"
+
+msgid "call_ib_number_not_in_use"
+msgstr "Numero non in uso"
+
+msgid "call_ib_request_not_completed"
+msgstr "Richiesta non completata"
+
+msgid "call_ib_request_rejected"
+msgstr "Richiesta rifiutata"
+
+msgid "call_ib_sending_dtmf"
+msgstr "Invio DTMF in corso"
+
+msgid "call_ib_service_code_not_supported"
+msgstr "Codice di servizio non supportato"
+
+msgid "call_ib_w_not_supported"
+msgstr "Lettera w non supportata"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "Apri scheda contatti"
+
+msgid "call_me_context_menu_delete"
+msgstr "Elimina"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "Nuova chiamata a contatto"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "Nuova chiamata a numero"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "Disattiva altoparlante"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "Attiva altoparlante"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "Avvia chiamata in conferenza"
+
+msgid "call_me_menu_call_video_call"
+msgstr "Attiva video"
+
+msgid "call_me_menu_merge_with"
+msgstr "Unisci ad un contatto"
+
+msgid "call_me_menu_new_contact"
+msgstr "Nuovo contatto"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "Attiva chiamata"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "Cancella chiamate recenti"
+
+msgid "call_me_menu_tools_duration"
+msgstr "Durata chiamate"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "Termina chiamata in attesa"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "Attiva attesa chiamata"
+
+msgid "call_me_menu_turning_control"
+msgstr "Impostazioni rotazione"
+
+msgid "call_nc_clear_all_calls"
+msgstr "Cancellare tutte le chiamate recenti?"
+
+msgid "call_nc_delete_call"
+msgstr "Rimuovere dalle chiamate recenti?"
+
+msgid "call_nc_end_call"
+msgstr "Terminare la chiamata in corso?"
+
+msgid "call_nc_end_calls"
+msgstr "Terminare le chiamate in corso?"
+
+msgid "call_nc_requesting"
+msgstr "Richiesta in corso..."
+
+msgid "call_ti_call_duration"
+msgstr "Durata chiamate"
+
+msgid "call_ti_call_type"
+msgstr "Tipo chiamata"
+
+msgid "call_ti_message"
+msgstr "Messaggio"
+
+msgid "call_ti_set_turning_control"
+msgstr "Impostazioni rotazione"
+
+msgid "voip_ap_feature_name"
+msgstr "Telefono"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "Chiudi"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "Chiama"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "Sblocca"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "Connessione in corso"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "Chiamata in corso"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "In corso"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "Occupato"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "Chiamata non stabilita"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "Chiamata disconnessa"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "Chiamata senza risposta"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "Chiamata non consentita"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "Indirizzo errato"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "Numero sconosciuto"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "Interrompere la chiamata in corso per iniziarne un'altra"
+
+msgid "voip_ib_call_not_supported"
+msgstr "Questa applicazione del contatto non supporta le chiamate"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "La chiamata non supporta i toni DTMF"
+
+msgid "voip_ib_error_in_contact"
+msgstr "Impossibile stabilire la connessione"
+
+msgid "voip_ib_microphone_muted"
+msgstr "Microfono disattivato"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "Microfono attivo"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "Memoria insufficiente"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr ""
+"Impossibile accettare la chiamata in arrivo.\n"
+"Memoria insufficiente."
+
+msgid "voip_ib_undefined_error"
+msgstr "Errore generico"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "Account chat e VoIP"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr ""
+"Codec non compatibile con il dispositivo del destinatario.\n"
+" Impossibile chiamare."
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "Tastiera toni"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "Tastiera"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "Tastiera"

@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-call-ui 20091123110947\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.23 11:09+0200\n"
+"PO-Revision-Date: 2009.11.23 11:09+0200\n"
+"Last-Translator:\n"
+"Language-Team: pt_PT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "Limpar temp."
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "Teclado"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "Seleccionar contacto"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "Atender"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "Rejeitar"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "Tipo de chamada"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "Rede"
+
+msgid "call_bd_send"
+msgstr "Enviar"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "Orientação do ecrã"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "Inverter para iniciar"
+
+msgid "call_bd_skip"
+msgstr "Avançar"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "Todas"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "Chamadas por telemóvel"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "Efectuadas"
+
+msgid "call_fi_call_duration_received"
+msgstr "Recebidas"
+
+msgid "call_fi_call_duration_voip"
+msgstr "Chamadas por Internet"
+
+msgid "call_fi_call_handling_camera"
+msgstr "Câmara"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "Dispositivo bloqueado"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "Chamada de emergência"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – Chamada de emergência"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "Terminar"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "Chamada"
+
+msgid "call_fi_call_handling_headset"
+msgstr "Auricular"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "Em espera"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "Altifalante"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "Privada"
+
+msgid "call_fi_call_header_active_call"
+msgstr "Chamada activa"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "Chamada"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "Chamada de conferência"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "Chm. Conf."
+
+msgid "call_fi_call_header_ending"
+msgstr "Terminar"
+
+msgid "call_fi_call_header_held_call"
+msgstr "Em espera"
+
+msgid "call_fi_call_header_video_call"
+msgstr "Chamada de vídeo"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "Número incorrecto"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "Rede"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "Automático"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "Paisagem"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "Retrato"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "Nenhuma conta"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "Nenhuma chamada recente"
+
+msgid "call_ib_account_not_in_use"
+msgstr "Conta não utilizada"
+
+msgid "call_ib_als_wrong_line"
+msgstr "Linha 2 do cartão SIM não suportada. Substituir cartão SIM."
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "Áudio transferido do auricular para o dispositivo"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "Áudio transferido para o auricular"
+
+msgid "call_ib_call_activated"
+msgstr "Chamada activada"
+
+msgid "call_ib_call_on_hold"
+msgstr "Chamada em espera"
+
+msgid "call_ib_call_waiting"
+msgstr "Chamada em espera"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "Erro de ligação"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "Rede ocupada"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "Sem saldo disponível"
+
+msgid "call_ib_fdn_active"
+msgstr "Chamada não autorizada. Marcação fixa activa."
+
+msgid "call_ib_not_allowed"
+msgstr "Chamada não autorizada"
+
+msgid "call_ib_not_available"
+msgstr "Indisponível"
+
+msgid "call_ib_number_not_in_use"
+msgstr "Número não utilizado"
+
+msgid "call_ib_request_not_completed"
+msgstr "Pedido não concluído"
+
+msgid "call_ib_request_rejected"
+msgstr "Pedido rejeitado"
+
+msgid "call_ib_sending_dtmf"
+msgstr "A enviar DTMF"
+
+msgid "call_ib_service_code_not_supported"
+msgstr "Código de serviço não suportado"
+
+msgid "call_ib_w_not_supported"
+msgstr "Letra 'w' não suportada"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "Abrir cartão do contacto"
+
+msgid "call_me_context_menu_delete"
+msgstr "Eliminar"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "Nova chamada (contacto)"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "Nova chamada (número)"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "Desligar altifalante"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "Ligar altifalante"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "Iniciar chamada em conf."
+
+msgid "call_me_menu_call_video_call"
+msgstr "Activar vídeo"
+
+msgid "call_me_menu_merge_with"
+msgstr "Unir a contacto"
+
+msgid "call_me_menu_new_contact"
+msgstr "Novo contacto"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "Activar chamada"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "Limpar chamadas recentes"
+
+msgid "call_me_menu_tools_duration"
+msgstr "Temporizadores de chamada"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "Terminar chamada em espera"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "Colocar chamada em espera"
+
+msgid "call_me_menu_turning_control"
+msgstr "Controlo de inversão"
+
+msgid "call_nc_clear_all_calls"
+msgstr "Limpar chamadas recentes?"
+
+msgid "call_nc_delete_call"
+msgstr "Remover das chamadas recentes?"
+
+msgid "call_nc_end_call"
+msgstr "Terminar chamada a decorrer?"
+
+msgid "call_nc_end_calls"
+msgstr "Terminar chamadas a decorrer?"
+
+msgid "call_nc_requesting"
+msgstr "A solicitar"
+
+msgid "call_ti_call_duration"
+msgstr "Temporizadores de chamada"
+
+msgid "call_ti_call_type"
+msgstr "Tipo de chamada"
+
+msgid "call_ti_message"
+msgstr "Mensagem"
+
+msgid "call_ti_set_turning_control"
+msgstr "Controlo de inversão"
+
+msgid "voip_ap_feature_name"
+msgstr "Telefone"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "Fechar"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "Chamada"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "Desbloquear"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "A ligar"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "A chamar"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "A chamar"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "Ocupado"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "Chamada não estabelecida"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "Chamada desligada"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "Sem resposta"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "Chamada não autorizada"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "Endereço incorrecto"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "Número desconhecido"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "Terminar chamada actual para iniciar uma nova chamada"
+
+msgid "voip_ib_call_not_supported"
+msgstr "A aplicação utilizada por este contacto não suporta chamadas"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "A chamada não suporta tons DTMF"
+
+msgid "voip_ib_error_in_contact"
+msgstr "Não foi possível estabelecer ligação"
+
+msgid "voip_ib_microphone_muted"
+msgstr "Microfone sem som"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "Microfone com som"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "Memória insuficiente"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr ""
+"Não foi possível aceitar a chamada a receber.\n"
+"Memória insuficiente."
+
+msgid "voip_ib_undefined_error"
+msgstr "Erro geral"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "Contas"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr ""
+"Codec incompatível com o dispositivo receptor.\n"
+"Não foi possível iniciar a chamada."
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "Teclado"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "Teclado"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "Teclado"

@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-call-ui 20091123110947\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.23 11:09+0200\n"
+"PO-Revision-Date: 2009.11.23 11:09+0200\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "Töm timers"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "Knappsats"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "Välj kontakt"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "Svara"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "Avvisa"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "Samtalstyp"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "Mobil"
+
+msgid "call_bd_send"
+msgstr "Skicka"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "Skärmläge"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "Starta genom att vrida"
+
+msgid "call_bd_skip"
+msgstr "Hoppa över"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "Alla"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "Mobilsamtal"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "Ringt"
+
+msgid "call_fi_call_duration_received"
+msgstr "Mottaget"
+
+msgid "call_fi_call_duration_voip"
+msgstr "Internetsamtal"
+
+msgid "call_fi_call_handling_camera"
+msgstr "Kamera"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "Enheten låst"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "Nödsamtal"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – Nödsamtal"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "Avsluta"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "Samtal"
+
+msgid "call_fi_call_handling_headset"
+msgstr "Headset"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "Väntar"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "Högtalare"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "Privat"
+
+msgid "call_fi_call_header_active_call"
+msgstr "Aktivt samtal"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "Aktivt samtal"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "Konf.samtal"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "Konf.samtal"
+
+msgid "call_fi_call_header_ending"
+msgstr "Avslutar"
+
+msgid "call_fi_call_header_held_call"
+msgstr "Väntar"
+
+msgid "call_fi_call_header_video_call"
+msgstr "Videosamtal"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "Felaktigt nummer"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "Mobil"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "Automatiskt"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "Landskap"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "Porträtt"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "Inga konton"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "Inga senaste samtal"
+
+msgid "call_ib_account_not_in_use"
+msgstr "Kontot används inte"
+
+msgid "call_ib_als_wrong_line"
+msgstr "Linje 2 för SIM-kortet stöds inte. Byt SIM-kort."
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "Ljud överfördes från headset till enhet"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "Ljud överfördes till headset"
+
+msgid "call_ib_call_activated"
+msgstr "Samtal aktiverat"
+
+msgid "call_ib_call_on_hold"
+msgstr "Samtal väntar"
+
+msgid "call_ib_call_waiting"
+msgstr "Samtal väntar"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "Anslutningsfel"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "Nätverket upptaget"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "Kostnadsgränsen uppnådd"
+
+msgid "call_ib_fdn_active"
+msgstr "Samtalet tillåts inte. Nummerbegränsning aktivt."
+
+msgid "call_ib_not_allowed"
+msgstr "Samtalet tillåts inte"
+
+msgid "call_ib_not_available"
+msgstr "Ej tillgängligt"
+
+msgid "call_ib_number_not_in_use"
+msgstr "Numret används inte"
+
+msgid "call_ib_request_not_completed"
+msgstr "Begäran slutfördes inte"
+
+msgid "call_ib_request_rejected"
+msgstr "Begäran avvisades"
+
+msgid "call_ib_sending_dtmf"
+msgstr "Skickar DTMF"
+
+msgid "call_ib_service_code_not_supported"
+msgstr "Servicekoden stöds inte"
+
+msgid "call_ib_w_not_supported"
+msgstr "Bokstaven w tillåts inte"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "Öppna visitkort"
+
+msgid "call_me_context_menu_delete"
+msgstr "Ta bort"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "Nytt samtal till kontakt"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "Nytt samtal till nummer"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "Slå av högtalare"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "Slå på högtalare"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "Börja konferenssamtal"
+
+msgid "call_me_menu_call_video_call"
+msgstr "Slå på video"
+
+msgid "call_me_menu_merge_with"
+msgstr "Sammanfoga med kontakt"
+
+msgid "call_me_menu_new_contact"
+msgstr "Ny kontakt"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "Aktivera samtal"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "Töm senaste samtal"
+
+msgid "call_me_menu_tools_duration"
+msgstr "Samtalstimers"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "Avsluta parkerat samtal"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "Parkera samtal"
+
+msgid "call_me_menu_turning_control"
+msgstr "Vridningskontroll"
+
+msgid "call_nc_clear_all_calls"
+msgstr "Vill du tömma senaste samtal?"
+
+msgid "call_nc_delete_call"
+msgstr "Vill du ta bort från senaste samtal?"
+
+msgid "call_nc_end_call"
+msgstr "Vill du avsluta pågående samtal?"
+
+msgid "call_nc_end_calls"
+msgstr "Vill du avsluta pågående samtal?"
+
+msgid "call_nc_requesting"
+msgstr "Begäran skickas"
+
+msgid "call_ti_call_duration"
+msgstr "Samtalstimers"
+
+msgid "call_ti_call_type"
+msgstr "Samtalstyp"
+
+msgid "call_ti_message"
+msgstr "Meddelande"
+
+msgid "call_ti_set_turning_control"
+msgstr "Vridningskontroll"
+
+msgid "voip_ap_feature_name"
+msgstr "Telefon"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "Stäng"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "Samtal"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "Lås upp"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "Ansluter"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "Ringer upp"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "Ringer upp"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "Upptagen"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "Samtalet inte upprättat"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "Samtal nedkopplat"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "Inget svar"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "Ej autentiserat samtal"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "Felaktig adress"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "Okänt nummer"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "Avsluta det pågående samtalet om du vill starta ett nytt"
+
+msgid "voip_ib_call_not_supported"
+msgstr "Kontaktens program kan inte hantera samtal"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "Samtalet stödjer inte tonvalsfunktioner"
+
+msgid "voip_ib_error_in_contact"
+msgstr "Det gick inte att upprätta anslutning"
+
+msgid "voip_ib_microphone_muted"
+msgstr "Mikrofonljudet av"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "Mikrofonljudet på"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "Minnesbrist"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr ""
+"Det gick inte att acceptera inkommande samtal.\n"
+"Minnesbrist."
+
+msgid "voip_ib_undefined_error"
+msgstr "Allmänt fel"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "Konton"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr ""
+"Kodek inkompatibel med den andra parten.\n"
+"Det gick inte att starta samtalet."
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "Knappsats"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "Knappsats"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "Knappsats"

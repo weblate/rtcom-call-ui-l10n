@@ -1,0 +1,356 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-call-ui 20091123110947\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.23 11:09+0200\n"
+"PO-Revision-Date: 2009.11.23 11:09+0200\n"
+"Last-Translator:\n"
+"Language-Team: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "Réinitialiser"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "Clavier de composition"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "Sélectionner contact"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "Répondre"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "Rejeter"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "Type d'appel"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "Cellulaire"
+
+msgid "call_bd_send"
+msgstr "Envoyer"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "Mode d'orientation de l'écran"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "Lancer en tournant"
+
+msgid "call_bd_skip"
+msgstr "Ignorer"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "Tous"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "Appels mobiles"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "Composés"
+
+msgid "call_fi_call_duration_received"
+msgstr "Reçus"
+
+msgid "call_fi_call_duration_voip"
+msgstr "Appels Internet"
+
+msgid "call_fi_call_handling_camera"
+msgstr "Caméra"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "Terminal verrouillé"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "Appel d'urgence"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – Appel d'urgence"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "Raccrocher"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "Appel"
+
+msgid "call_fi_call_handling_headset"
+msgstr "Casque"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "En garde"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "Haut-parleur"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "Privé"
+
+msgid "call_fi_call_header_active_call"
+msgstr "Appel actif"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "Appel actif"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "Conférence téléphonique"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "Conférence"
+
+msgid "call_fi_call_header_ending"
+msgstr "Fin"
+
+msgid "call_fi_call_header_held_call"
+msgstr "En garde"
+
+msgid "call_fi_call_header_video_call"
+msgstr "Appel vidéo"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "Numéro incorrect"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "Cellulaire"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "Rotation automatique"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "Paysage"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "Portrait seulement"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "Aucun compte"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "Aucun appel récent"
+
+msgid "call_ib_account_not_in_use"
+msgstr "Compte VOIP non utilisé"
+
+msgid "call_ib_als_wrong_line"
+msgstr ""
+"La ligne 2 de la carte SIM n'est pas prise en charge. Changer de carte SIM."
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "Audio transféré du casque au terminal"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "Audio transféré vers le casque"
+
+msgid "call_ib_call_activated"
+msgstr "Appel activé"
+
+msgid "call_ib_call_on_hold"
+msgstr "Appel en garde"
+
+msgid "call_ib_call_waiting"
+msgstr "Appel en attente"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "Erreur de connexion"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "Réseau occupé"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "Forfait épuisé"
+
+msgid "call_ib_fdn_active"
+msgstr "Appel non autorisé. Composition fixe active."
+
+msgid "call_ib_not_allowed"
+msgstr "Appel non autorisé"
+
+msgid "call_ib_not_available"
+msgstr "Non disponible"
+
+msgid "call_ib_number_not_in_use"
+msgstr "Numéro non utilisé"
+
+msgid "call_ib_request_not_completed"
+msgstr "Demande inachevée"
+
+msgid "call_ib_request_rejected"
+msgstr "Demande rejetée"
+
+msgid "call_ib_sending_dtmf"
+msgstr "Envoi tonalité MF"
+
+msgid "call_ib_service_code_not_supported"
+msgstr "Code de service non pris en charge"
+
+msgid "call_ib_w_not_supported"
+msgstr "Lettre w non prise en charge"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "Ouvrir carte de contact"
+
+msgid "call_me_context_menu_delete"
+msgstr "Supprimer"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "Nouvel appel au contact"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "Nouvel appel au numéro"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "Désactiver le haut-parleur"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "Activer le haut-parleur"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "Débuter une conférence"
+
+msgid "call_me_menu_call_video_call"
+msgstr "Activer la vidéo"
+
+msgid "call_me_menu_merge_with"
+msgstr "Fusionner avec contact"
+
+msgid "call_me_menu_new_contact"
+msgstr "Nouveau contact"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "Activer l'appel"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "Effacer les appels récents"
+
+msgid "call_me_menu_tools_duration"
+msgstr "Minuteries d'appels"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "Mettre fin à l'appel en garde"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "Mettre l'appel en garde"
+
+msgid "call_me_menu_turning_control"
+msgstr "Orientation de l'écran"
+
+msgid "call_nc_clear_all_calls"
+msgstr "Effacer les appels récents ?"
+
+msgid "call_nc_delete_call"
+msgstr "Supprimer des appels récents ?"
+
+msgid "call_nc_end_call"
+msgstr "Mettre fin à l'appel en cours ?"
+
+msgid "call_nc_end_calls"
+msgstr "Mettre fin aux appels en cours ?"
+
+msgid "call_nc_requesting"
+msgstr "Demande"
+
+msgid "call_ti_call_duration"
+msgstr "Minuteries d'appels"
+
+msgid "call_ti_call_type"
+msgstr "Type d'appel"
+
+msgid "call_ti_message"
+msgstr "Message"
+
+msgid "call_ti_set_turning_control"
+msgstr "Orientation de l'écran"
+
+msgid "voip_ap_feature_name"
+msgstr "Téléphone"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "Fermer"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "Appeler"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "Déverrouiller"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "Connexion"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "Appel en cours…"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "Appel…"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "Occupé"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "Appel non établi"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "Appel interrompu"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "Pas de réponse"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "Appel non autorisé"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "Adresse incorrecte"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "Numéro inconnu"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "Mettre fin à l'appel actuel pour en faire un nouveau"
+
+msgid "voip_ib_call_not_supported"
+msgstr "L'application du contact ne prend pas en charge les appels"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "L'appel ne prend pas en charge les tonalités MF"
+
+msgid "voip_ib_error_in_contact"
+msgstr "Impossible d'établir la connexion"
+
+msgid "voip_ib_microphone_muted"
+msgstr "Microphone désactivé"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "Microphone activé"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "Mémoire insuffisante"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr ""
+"Impossible d'accepter l'appel entrant.\n"
+"Mémoire insuffisante."
+
+msgid "voip_ib_undefined_error"
+msgstr "Erreur générale"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "Mes comptes"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr ""
+"Codec non compatible avec le codec utilisé par votre correspondant.\n"
+"Appel impossible."
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "Clavier de composition"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "Clavier de composition"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "Clavier comp."

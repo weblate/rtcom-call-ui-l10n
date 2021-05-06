@@ -1,0 +1,356 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-call-ui 20091123110947\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.23 11:09+0200\n"
+"PO-Revision-Date: 2009.11.23 11:09+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "Сбросить"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "Клавиатура набора"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "Выбрать контакт"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "Ответить"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "Отклонить"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "Тип вызова"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "Сотовый"
+
+msgid "call_bd_send"
+msgstr "Отправить"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "Ориентация экрана"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "Запускать при повороте устр-ва"
+
+msgid "call_bd_skip"
+msgstr "Пропустить"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "Все"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "Вызовы с мобильных"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "Набрано"
+
+msgid "call_fi_call_duration_received"
+msgstr "Получено"
+
+msgid "call_fi_call_duration_voip"
+msgstr "Вызовы через Интернет"
+
+msgid "call_fi_call_handling_camera"
+msgstr "Камера"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "Устройство блокировано"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "Экстренный вызов"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – Экстренный вызов"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "Завершить"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "Вызов"
+
+msgid "call_fi_call_handling_headset"
+msgstr "Гарнитура"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "В режиме ожидания"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "Громкая связь"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "Личный"
+
+msgid "call_fi_call_header_active_call"
+msgstr "Активен"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "Активен"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "Конфер."
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "Конференция"
+
+msgid "call_fi_call_header_ending"
+msgstr "Завершение"
+
+msgid "call_fi_call_header_held_call"
+msgstr "В ожидании"
+
+msgid "call_fi_call_header_video_call"
+msgstr "Видеовызов"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "Неправильный номер"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "Сотовый"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "Автоматически"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "Ландшафт"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "Портрет"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "Нет учетных записей"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "Нет недавних вызовов"
+
+msgid "call_ib_account_not_in_use"
+msgstr "Учетная запись не используется"
+
+msgid "call_ib_als_wrong_line"
+msgstr "Линия 2 SIM-карты не поддерживается. Замените SIM-карту."
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "Передача звука от гарнитуры в устройство"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "Передача звука в гарнитуру"
+
+msgid "call_ib_call_activated"
+msgstr "Вызов активирован"
+
+msgid "call_ib_call_on_hold"
+msgstr "Вызов в режиме ожидания"
+
+msgid "call_ib_call_waiting"
+msgstr "Ожидание вызова"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "Ошибка соединения"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "Сеть занята"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "Достигнут предел стоимости"
+
+msgid "call_ib_fdn_active"
+msgstr "Вызов не разрешен. Включен режим разрешенных номеров."
+
+msgid "call_ib_not_allowed"
+msgstr "Вызов не разрешен"
+
+msgid "call_ib_not_available"
+msgstr "Недоступно"
+
+msgid "call_ib_number_not_in_use"
+msgstr "Номер не используется"
+
+msgid "call_ib_request_not_completed"
+msgstr "Запрос не выполнен"
+
+msgid "call_ib_request_rejected"
+msgstr "Запрос отклонен"
+
+msgid "call_ib_sending_dtmf"
+msgstr "Отправка DTMF"
+
+msgid "call_ib_service_code_not_supported"
+msgstr "Служебный код не поддерживается"
+
+msgid "call_ib_w_not_supported"
+msgstr "Буква w не поддерживается"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "Открыть визитную карточку"
+
+msgid "call_me_context_menu_delete"
+msgstr "Удалить"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "Новый звонок контакту"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "Новый звонок по номеру"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "Выключить громкую связь"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "Включить громкую связь"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "Начать конференцию"
+
+msgid "call_me_menu_call_video_call"
+msgstr "Включить видео"
+
+msgid "call_me_menu_merge_with"
+msgstr "Объединить с контактом"
+
+msgid "call_me_menu_new_contact"
+msgstr "Создать контакт"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "Активировать вызов"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "Очистить недавние вызовы"
+
+msgid "call_me_menu_tools_duration"
+msgstr "Таймеры вызовов"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "Завершить удерж. вызов"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "Удержание вызова"
+
+msgid "call_me_menu_turning_control"
+msgstr "Управление поворотом"
+
+msgid "call_nc_clear_all_calls"
+msgstr "Очистить недавние вызовы?"
+
+msgid "call_nc_delete_call"
+msgstr "Удалить из списка недавних вызовов?"
+
+msgid "call_nc_end_call"
+msgstr "Прервать текущий вызов?"
+
+msgid "call_nc_end_calls"
+msgstr "Прервать исходящие вызовы?"
+
+msgid "call_nc_requesting"
+msgstr "Запрос"
+
+msgid "call_ti_call_duration"
+msgstr "Таймеры вызовов"
+
+msgid "call_ti_call_type"
+msgstr "Тип вызова"
+
+msgid "call_ti_message"
+msgstr "Сообщение"
+
+msgid "call_ti_set_turning_control"
+msgstr "Управление поворотом"
+
+msgid "voip_ap_feature_name"
+msgstr "Телефон"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "Закрыть"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "Вызов"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "Разблокировать"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "Соединение"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "Вызов"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "Вызов"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "Занят"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "Вызов не определен"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "Вызов отключен"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "Нет ответа"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "Вызов не авторизован"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "Неверный адрес"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "Неизвестный номер"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "Чтобы начать новый вызов, завершите текущий"
+
+msgid "voip_ib_call_not_supported"
+msgstr "Приложение этого контакта не поддерживает вызовы"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "Вызов не поддерживает тональные частоты DTMF"
+
+msgid "voip_ib_error_in_contact"
+msgstr "Не удается установить соединение"
+
+msgid "voip_ib_microphone_muted"
+msgstr "Микрофон отключен"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "Микрофон включен"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "Недостаточно памяти"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr ""
+"Невозможно принять входящий звонок.\n"
+"Недостаточно памяти."
+
+msgid "voip_ib_undefined_error"
+msgstr "Неизвестная ошибка"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "Учетные записи"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr ""
+"Кодек несовместим с оборудованием другого абонента.\n"
+"Не удается начать вызов."
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "Клавиатура набора"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "Клавиатура набора"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "Клавиатура"

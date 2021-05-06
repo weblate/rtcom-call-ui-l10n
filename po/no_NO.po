@@ -1,0 +1,355 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-call-ui 20091123110947\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.23 11:09+0200\n"
+"PO-Revision-Date: 2009.11.23 11:09+0200\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "Tøm tidtakere"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "Tastatur"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "Velg kontakt"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "Svar"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "Avvis"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "Anropstype"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "Mobil"
+
+msgid "call_bd_send"
+msgstr "Send"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "Skjermretning"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "Start ved rotering"
+
+msgid "call_bd_skip"
+msgstr "Hopp over"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "Alle"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "Mobilanrop"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "Oppringt"
+
+msgid "call_fi_call_duration_received"
+msgstr "Mottatt"
+
+msgid "call_fi_call_duration_voip"
+msgstr "Internett-anrop"
+
+msgid "call_fi_call_handling_camera"
+msgstr "Kamera"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "Enheten er låst"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "Nødsamtale"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – nødsamtale"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "Avslutt"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "Anrop"
+
+msgid "call_fi_call_handling_headset"
+msgstr "Hodetelefoner"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "På vent"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "Høyttaler"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "Privat"
+
+msgid "call_fi_call_header_active_call"
+msgstr "Aktivt anrop"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "Aktivt anrop"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "Konferansesamtale"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "Konferansesamtale"
+
+msgid "call_fi_call_header_ending"
+msgstr "Avslutter"
+
+msgid "call_fi_call_header_held_call"
+msgstr "På vent"
+
+msgid "call_fi_call_header_video_call"
+msgstr "Videoanrop"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "Feil nummer"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "Mobil"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "Automatisk"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "Liggende"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "Stående"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "Ingen kontoer"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "Ingen nylige anrop"
+
+msgid "call_ib_account_not_in_use"
+msgstr "Kontoen er ikke i bruk"
+
+msgid "call_ib_als_wrong_line"
+msgstr "SIM-kortets linje 2 støttes ikke. Bytt SIM-kort."
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "Lyden overføres fra hodetelefonene til enheten"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "Lyden overføres til hodetelefonene"
+
+msgid "call_ib_call_activated"
+msgstr "Samtale innhentet"
+
+msgid "call_ib_call_on_hold"
+msgstr "Samtale på vent"
+
+msgid "call_ib_call_waiting"
+msgstr "Samtale venter"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "Tilkoblingsfeil"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "Nettverket er opptatt"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "Kostnadsgrensen er nådd"
+
+msgid "call_ib_fdn_active"
+msgstr "Samtale ikke tillatt. Forhåndsangitte nummervalg er aktivert."
+
+msgid "call_ib_not_allowed"
+msgstr "Samtale ikke tillatt"
+
+msgid "call_ib_not_available"
+msgstr "Ikke tilgjengelig"
+
+msgid "call_ib_number_not_in_use"
+msgstr "Nummeret er ikke i bruk"
+
+msgid "call_ib_request_not_completed"
+msgstr "Forespørselen er ikke fullført"
+
+msgid "call_ib_request_rejected"
+msgstr "Forespørselen er avvist"
+
+msgid "call_ib_sending_dtmf"
+msgstr "Sender DTMF"
+
+msgid "call_ib_service_code_not_supported"
+msgstr "Tjenestekoden støttes ikke"
+
+msgid "call_ib_w_not_supported"
+msgstr "Bokstaven w støttes ikke"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "Åpne visittkort"
+
+msgid "call_me_context_menu_delete"
+msgstr "Slett"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "Nytt anrop til kontakt"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "Nytt anrop til nummer"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "Slå av høyttaler"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "Slå på høyttaler"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "Start konferansesamtale"
+
+msgid "call_me_menu_call_video_call"
+msgstr "Slå på video"
+
+msgid "call_me_menu_merge_with"
+msgstr "Flett med kontakt"
+
+msgid "call_me_menu_new_contact"
+msgstr "Ny kontakt"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "Innhent samtale"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "Tøm nylige anrop"
+
+msgid "call_me_menu_tools_duration"
+msgstr "Samtaletidtakere"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "Avslutt ventende anrop"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "Sett på vent"
+
+msgid "call_me_menu_turning_control"
+msgstr "Rotasjonskontroll"
+
+msgid "call_nc_clear_all_calls"
+msgstr "Slette nylige anrop?"
+
+msgid "call_nc_delete_call"
+msgstr "Fjerne fra nylige anrop?"
+
+msgid "call_nc_end_call"
+msgstr "Avslutte den aktive samtalen?"
+
+msgid "call_nc_end_calls"
+msgstr "Avslutte aktive samtaler?"
+
+msgid "call_nc_requesting"
+msgstr "Sender forespørsel"
+
+msgid "call_ti_call_duration"
+msgstr "Samtaletidtakere"
+
+msgid "call_ti_call_type"
+msgstr "Anropstype"
+
+msgid "call_ti_message"
+msgstr "Melding"
+
+msgid "call_ti_set_turning_control"
+msgstr "Rotasjonskontroll"
+
+msgid "voip_ap_feature_name"
+msgstr "Telefon"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "Lukk"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "Anrop"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "Lås opp"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "Kobler til"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "Ringer"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "Ringer"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "Opptatt"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "Samtale er ikke opprettet"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "Anrop koblet fra"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "Ikke svar"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "Ikke godkjent anrop"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "Feil adresse"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "Skjult nummer"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "Avslutt aktivt anrop for å foreta nytt anrop"
+
+msgid "voip_ib_call_not_supported"
+msgstr "Programmet til denne kontakten støtter ikke anrop"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "Anropet støtter ikke DTMF-toner"
+
+msgid "voip_ib_error_in_contact"
+msgstr "Kan ikke opprette tilkobling"
+
+msgid "voip_ib_microphone_muted"
+msgstr "Mikrofonen er av"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "Mikrofonen er på"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "Ikke nok minne"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr ""
+"Kan ikke godta innkommende anrop.\n"
+"Ikke nok minne."
+
+msgid "voip_ib_undefined_error"
+msgstr "Generell feil"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "Kontoer"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr ""
+"Kodek ikke kompatibel med den andre parten.\n"
+"Kan ikke starte anrop."
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "Tastatur"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "Tastatur"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "Tastatur"
