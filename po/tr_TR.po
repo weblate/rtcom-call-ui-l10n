@@ -1,0 +1,367 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-call-ui 20091019161422\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.08.17 10:20+0300\n"
+"PO-Revision-Date: 2010-05-29 22:43+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "Sayaçları sıfırla"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "Nümerik tuşlar"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "Kişi seç"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "Cevapla"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "Reddet"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "Arama tipi"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "Hücresel"
+
+msgid "call_bd_send"
+msgstr "Gönder"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "Ekran hizası"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "Döndürerek çalıştır"
+
+msgid "call_bd_skip"
+msgstr "Atla"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "Tüm"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "Mobil aramalar"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "Arandı"
+
+msgid "call_fi_call_duration_received"
+msgstr "Alındı"
+
+msgid "call_fi_call_duration_voip"
+msgstr "Internet aramaları"
+
+msgid "call_fi_call_handling_camera"
+msgstr "Kamera"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "Cihaz kilitli"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "Acildurum araması"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – Acildurum araması"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "Bitir"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "Ara"
+
+msgid "call_fi_call_handling_headset"
+msgstr "Kulaklık"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "Beklemede"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "Hoparlör"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "Özel"
+
+msgid "call_fi_call_header_active_call"
+msgstr "Aktif arama"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "Aktif arama"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "Konferans araması"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "Konferans araması"
+
+msgid "call_fi_call_header_ending"
+msgstr "Bitiriliyor"
+
+msgid "call_fi_call_header_held_call"
+msgstr "Beklemede"
+
+msgid "call_fi_call_header_video_call"
+msgstr "Video araması"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "Geçersiz numara"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "Hücresel"
+
+msgid "call_fi_call_type_skypeout"
+msgstr "%s - Skype ile Ara"
+
+msgid "call_fi_dialed_call"
+msgstr "Arandı"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "Otomatik"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "Manzara"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "Portre"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "Hesap yok"
+
+msgid "call_fi_missed_call"
+msgstr "Cevapsız"
+
+msgid "call_fi_received_call"
+msgstr "Alındı"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "Hiç son arama yok"
+
+msgid "call_ib_account_not_in_use"
+msgstr "Hesap kullanımda değil"
+
+msgid "call_ib_als_wrong_line"
+msgstr "SIM kartta Hat 2 desteklenmiyor. SIM kartı değiştirin."
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "Ses kulaklıktan cihaza aktarıldı"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "Ses kulaklığa aktarıldı"
+
+msgid "call_ib_call_activated"
+msgstr "Arama aktifleştirildi"
+
+msgid "call_ib_call_on_hold"
+msgstr "Arama beklemede"
+
+msgid "call_ib_call_waiting"
+msgstr "Arama bekliyor"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "Bağlantı hatası"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "Şebeke meşgul"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "Fiyat sınırına ulaşıldı"
+
+msgid "call_ib_fdn_active"
+msgstr "Aramaya izin verilmedi. Sabit arama aktif."
+
+msgid "call_ib_not_allowed"
+msgstr "Aramaya izin verilmedi."
+
+msgid "call_ib_not_available"
+msgstr "Mevcut değil"
+
+msgid "call_ib_number_not_in_use"
+msgstr "Numara kullanımda değil"
+
+msgid "call_ib_request_not_completed"
+msgstr "İstek tamamlanmadı"
+
+msgid "call_ib_request_rejected"
+msgstr "Istek reddedildi"
+
+msgid "call_ib_sending_dtmf"
+msgstr "DTMF gönderiliyor"
+
+msgid "call_ib_service_code_not_supported"
+msgstr "Servis kodu desteklenmiyor"
+
+msgid "call_ib_w_not_supported"
+msgstr "'w' harfi desteklenmiyor"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "Kişi kimliğini aç"
+
+msgid "call_me_context_menu_delete"
+msgstr "Sil"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "Kişiye yeni arama"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "Numaraya yeni arama"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "Hoparlörü kapat"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "Hoparlörü aç"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "Konferans araması başlat"
+
+msgid "call_me_menu_call_video_call"
+msgstr "Videoyu aç"
+
+msgid "call_me_menu_merge_with"
+msgstr "Kişiyle birleştir"
+
+msgid "call_me_menu_new_contact"
+msgstr "Yeni kişi"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "Arama aktifleştir"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "Son aramaları sil"
+
+msgid "call_me_menu_tools_duration"
+msgstr "Arama sayaçları"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "Bekletilen aramayı bitir"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "Arama beklet"
+
+msgid "call_me_menu_turning_control"
+msgstr "Dönüş kontrolü"
+
+msgid "call_nc_clear_all_calls"
+msgstr "Son aramalar temizlensin mi?"
+
+msgid "call_nc_delete_call"
+msgstr "Son aramalardan silinsin mi?"
+
+msgid "call_nc_end_call"
+msgstr "Devam eden aramayı bitir?"
+
+msgid "call_nc_end_calls"
+msgstr "Devam eden aramaları bitir?"
+
+msgid "call_nc_requesting"
+msgstr "İstek yapılıyor"
+
+msgid "call_ti_call_duration"
+msgstr "Arama sayaçları"
+
+msgid "call_ti_call_type"
+msgstr "Arama tipi"
+
+msgid "call_ti_message"
+msgstr "Mesaj"
+
+msgid "call_ti_set_turning_control"
+msgstr "Dönüş kontrolü"
+
+msgid "voip_ap_feature_name"
+msgstr "Telefon"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "Kapat"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "Ara"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "Kilit aç"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "Bağlanıyor"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "Aranıyor"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "Aranıyor"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "Meşgul"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "Arama yapılamadı"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "Arama bağlantısı kesildi"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "Cevap yok"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "Arama yetkilendirilmedi"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "Geçersiz adres"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "Bilinmeyen numara"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "Yeni arama başlatmak için öncekini bitirin"
+
+msgid "voip_ib_call_not_supported"
+msgstr "Bu kişinin uygulaması aramaları desteklemiyor"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "Arama DTMF tonlarını desteklemiyor"
+
+msgid "voip_ib_error_in_contact"
+msgstr "Bağlantı kurulamadı"
+
+msgid "voip_ib_microphone_muted"
+msgstr "Mikrofon sessiz"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "Mikrofon sesi açıldı"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "Bellek yetersiz"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr ""
+"Gelen arama kabul edilemiyor.\n"
+"Bellek yetersiz."
+
+msgid "voip_ib_undefined_error"
+msgstr "Genel hata"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "Hesaplar"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr ""
+"Diğer kullanıcıyla kodlayıcı uyumsuz.\n"
+"Arama başlatılamıyor."
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "Nümerik tuşlar"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "Nümerik tuşlar"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "Nümerik tuşlar"
