@@ -1,0 +1,358 @@
+#
+# Roman Moravčík <roman.moravcik@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-call-ui 20091019161422\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.11.23 11:09+0200\n"
+"PO-Revision-Date: 2010-03-27 23:31+0100\n"
+"Last-Translator:\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+"Last-Translator: Roman Moravčík <roman.moravcik@gmail.com>\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "Vymazať časovače"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "Numerická klávesnica"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "Zvolte kontakt"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "Odpovedať"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "Odmietnuť"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "Typ hovoru"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "Celulárny"
+
+msgid "call_bd_send"
+msgstr "Odoslať"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "Orientácia displeja"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "Spustiť otočením"
+
+msgid "call_bd_skip"
+msgstr "Preskočiť"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "Všetky:"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "Mobilné hovory"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "Odchádzajúce:"
+
+msgid "call_fi_call_duration_received"
+msgstr "Prijaté:"
+
+msgid "call_fi_call_duration_voip"
+msgstr "Internetové hovory"
+
+msgid "call_fi_call_handling_camera"
+msgstr "Kamera"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "Prístroj uzamknutý"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "Tiesňový hovor"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – Tiesňový hovor"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "Ukončiť"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "Hovor"
+
+msgid "call_fi_call_handling_headset"
+msgstr "Headset"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "Pridržaný"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "Reproduktor"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "Osobný"
+
+msgid "call_fi_call_header_active_call"
+msgstr "Aktívny hovor"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "Aktívny hovor"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "Konferenčný hovor"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "Konfer. hovor"
+
+msgid "call_fi_call_header_ending"
+msgstr "Ukončovanie"
+
+msgid "call_fi_call_header_held_call"
+msgstr "Pridržaný"
+
+msgid "call_fi_call_header_video_call"
+msgstr "Videohovor"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "Nesprávne číslo"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "Celulárny"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "Automaticky"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "Krajina"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "Na výšku"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "Žiadne účty"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "Žiadne posledné hovory"
+
+msgid "call_ib_account_not_in_use"
+msgstr "Účet sa nepoužíva"
+
+msgid "call_ib_als_wrong_line"
+msgstr "Linka 2 tejto SIM karty nie je podporovaná. Vymeňte SIM kartu."
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "Zvuk prenášaný z headsetu do prístroja"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "Zvuk prenášaný do headsetu"
+
+msgid "call_ib_call_activated"
+msgstr "Hovor aktivovaný"
+
+msgid "call_ib_call_on_hold"
+msgstr "Hovor pridržaný"
+
+msgid "call_ib_call_waiting"
+msgstr "Čakajúci hovor"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "Chyba pripojenia"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "Sieť obsadená"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "Kredit bol vyčerpaný"
+
+msgid "call_ib_fdn_active"
+msgstr "Hovor nepovolený. Pevné vytáčanie aktívne."
+
+msgid "call_ib_not_allowed"
+msgstr "Hovor nepovolený"
+
+msgid "call_ib_not_available"
+msgstr "Nie je dostupné"
+
+msgid "call_ib_number_not_in_use"
+msgstr "Číslo sa nepoužíva"
+
+msgid "call_ib_request_not_completed"
+msgstr "Požiadavka nebola dokončená"
+
+msgid "call_ib_request_rejected"
+msgstr "Požiadavok odmietnutý"
+
+msgid "call_ib_sending_dtmf"
+msgstr "Odosielanie DTMF"
+
+msgid "call_ib_service_code_not_supported"
+msgstr "Servisný kód nie je podporovaný"
+
+msgid "call_ib_w_not_supported"
+msgstr "Písmeno „w“ nie je podporované"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "Otvoriť vizitku"
+
+msgid "call_me_context_menu_delete"
+msgstr "Odstrániť"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "Volať ďalší kontakt"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "Volať ďalší číslo"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "Vypnúť reproduktor"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "Zapnúť reproduktor"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "Zahájiť konferenčný hovor"
+
+msgid "call_me_menu_call_video_call"
+msgstr "Zapnúť video"
+
+msgid "call_me_menu_merge_with"
+msgstr "Zlúčiť s kontaktom"
+
+msgid "call_me_menu_new_contact"
+msgstr "Nový kontakt"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "Aktivovať hovor"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "Vymazať posledné hovory"
+
+msgid "call_me_menu_tools_duration"
+msgstr "Dĺžka hovorov"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "Ukončiť pridržaný hovor"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "Pridržať hovor"
+
+msgid "call_me_menu_turning_control"
+msgstr "Ovládanie otočením"
+
+msgid "call_nc_clear_all_calls"
+msgstr "Vymazať posledné hovory?"
+
+msgid "call_nc_delete_call"
+msgstr "Odstrániť z posledných hovorov?"
+
+msgid "call_nc_end_call"
+msgstr "Ukončiť prebiehajúci hovor?"
+
+msgid "call_nc_end_calls"
+msgstr "Ukončiť prebiehajúce hovory?"
+
+msgid "call_nc_requesting"
+msgstr "Požadovanie"
+
+msgid "call_ti_call_duration"
+msgstr "Dĺžka hovorov"
+
+msgid "call_ti_call_type"
+msgstr "Typ hovoru"
+
+msgid "call_ti_message"
+msgstr "Správa"
+
+msgid "call_ti_set_turning_control"
+msgstr "Ovládanie otočením"
+
+msgid "voip_ap_feature_name"
+msgstr "Telefón"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "Zavrieť"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "Hovor"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "Odomknúť"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "Pripájanie"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "Volanie"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "Volanie"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "Zaneprázdnený"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "Hovor nenadviazaný"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "Hovor odpojený"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "Žiadna odpoveď"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "Hovor neautorizovaný"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "Nesprávna adresa"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "Súkromné číslo"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "Pre zahájenie nového hovoru ukončíte aktuálny hovor."
+
+msgid "voip_ib_call_not_supported"
+msgstr "Aplikácia tohoto kontaktu nepodporuje hovory"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "Hovor nepodporuje tóny DTMF"
+
+msgid "voip_ib_error_in_contact"
+msgstr "Nemožno nadviazať spojenie"
+
+msgid "voip_ib_microphone_muted"
+msgstr "Mikrofón vypnutý"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "Mikrofón zapnutý"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "Nedostatok pamäte"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr ""
+"Nemožno prijať prichádzajúci hovor.\n"
+"Nedostatok pamäte."
+
+msgid "voip_ib_undefined_error"
+msgstr "Všeobecná chyba"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "Účty"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr ""
+"Kódek nekompatibilný s druhou stranou.\n"
+"Nemožno zahájiť hovor."
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "Numerická klávesnica"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "Numerická klávesnica"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "Numerická kláv."
