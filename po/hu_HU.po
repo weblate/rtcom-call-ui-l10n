@@ -1,0 +1,344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-call-ui 20091019161422\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-03-05 16:01+0100\n"
+"Last-Translator: Tari László <n900nseries@gmail.com>\n"
+"Language-Team: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr ""
+"Számlálók\n"
+"nullázása"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "Tárcsázó"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "Névjegy kiválasztása"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "Válasz"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "Elutasít"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "Hívás tipusa"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "Mobil"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "Kijelző tájolása"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "Elforgatásra aktiválódik"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "Összes hívás"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "Mobil hívások"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "Hívott számok"
+
+msgid "call_fi_call_duration_received"
+msgstr "Fogadott hívások"
+
+msgid "call_fi_call_duration_voip"
+msgstr "Internet hívások"
+
+msgid "call_fi_call_handling_camera"
+msgstr "Kamera"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "Telefon lezárva"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "Segélyhívás"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – Segélyhívás"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "Befejezés"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "Hívás"
+
+msgid "call_fi_call_handling_headset"
+msgstr "Fejhallgató"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "Hívás várakoztatás"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "Kihangosítás"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "Magánbeszélgetés"
+
+msgid "call_fi_call_header_active_call"
+msgstr "Folyamatban lévő hívás"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "Folyamatban lévő hívás (álló)"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "Konferencia hívás"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "Konferencia hívás (álló)"
+
+msgid "call_fi_call_header_ending"
+msgstr "Befejezés"
+
+msgid "call_fi_call_header_held_call"
+msgstr "Hívás várakoztatás"
+
+msgid "call_fi_call_header_video_call"
+msgstr "Videó hívás"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "Helytelen telefonszám"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "Mobil"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "Automatikus"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "Fekvő nézet"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "Álló nézet"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "Nincsenek névjegyek"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "Nincs bejövő hívás"
+
+msgid "call_ib_account_not_in_use"
+msgstr "Névjegy nincs használatban"
+
+msgid "call_ib_als_wrong_line"
+msgstr "A második vonalat a SIM kártya nem támogatja. Cserélj SIM kártyát."
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "Hang átirányítva a fejhallgatóról a készülékre"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "Hang átirányítva a fejhallgatóra"
+
+msgid "call_ib_call_activated"
+msgstr "Hívás"
+
+msgid "call_ib_call_on_hold"
+msgstr "Hívás tartás"
+
+msgid "call_ib_call_waiting"
+msgstr "Hívás várakozás"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "Kapcsolódási hiba"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "Hálózat túlterhelt"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "Elérted a költséghatárt"
+
+msgid "call_ib_fdn_active"
+msgstr "Hívás nem engedélyezett. Rögzített hívások bekapcsolva."
+
+msgid "call_ib_not_allowed"
+msgstr "Hívás nem engedélyezett"
+
+msgid "call_ib_not_available"
+msgstr "Nem elérhető"
+
+msgid "call_ib_number_not_in_use"
+msgstr "A telefonszám nincs használatban"
+
+msgid "call_ib_request_rejected"
+msgstr "Kérelem elutasítva"
+
+msgid "call_ib_sending_dtmf"
+msgstr "DTMF küldes"
+
+msgid "call_ib_w_not_supported"
+msgstr "'w' nem megengedett karakter"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "Névjegy megnyitása"
+
+msgid "call_me_context_menu_delete"
+msgstr "Törlés"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "Névjegy hívása"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "Szám hívása"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "Hangszóró némítása"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "Hangszóró bekapcsolása"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "Konferencia hívás kezdeményezése"
+
+msgid "call_me_menu_call_video_call"
+msgstr "Videó hívás bekapcsolása"
+
+msgid "call_me_menu_merge_with"
+msgstr "Egyesítés névjeggyel"
+
+msgid "call_me_menu_new_contact"
+msgstr "Új névjegy"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "Aktív hívás"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "Legutóbbi hívások törlése"
+
+msgid "call_me_menu_tools_duration"
+msgstr "Hívás időmérés"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "Várakoztatott hívás befejezése"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "Hívás várakoztatás"
+
+msgid "call_me_menu_turning_control"
+msgstr "Kijelző elforgatás"
+
+msgid "call_nc_clear_all_calls"
+msgstr "Törlöd a legutóbbi hívásokat?"
+
+msgid "call_nc_delete_call"
+msgstr "Törlöd ezt a telefonszámot  legutóbbi hívások közül?"
+
+msgid "call_nc_end_call"
+msgstr "Befejezed a folyamatban lévő hívást?"
+
+msgid "call_nc_end_calls"
+msgstr "Befejezed a folyamatban lévő hívásokat?"
+
+msgid "call_nc_requesting"
+msgstr "Adatlekérés folyamatban"
+
+msgid "call_ti_call_duration"
+msgstr "Hívás időmérő"
+
+msgid "call_ti_call_type"
+msgstr "Hívás tipusa"
+
+msgid "call_ti_set_turning_control"
+msgstr "Kijelző elforgatás"
+
+msgid "call_ti_message"
+msgstr "Üzenet"
+
+msgid "voip_ap_feature_name"
+msgstr "Telefon"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "Bezárás"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "Hívás"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "Feloldás"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "Kapcsolódás"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "Hívás"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "Hívás"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "Foglalt"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "Hívás nem kezdeményezhető"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "Hívás bontva"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "Nincs válasz"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "Jogosulatlan hívás"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "Helytelen cím"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "Ismeretlen szám"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "Fejezd be a jelenlegi beszélgetést egy új kezdéséhez"
+
+msgid "voip_ib_call_not_supported"
+msgstr "Ez a telefonköny alkalmazás nem támogatja a hívásokat"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "DTMF nem támogatott"
+
+msgid "voip_ib_error_in_contact"
+msgstr "Nem lehet a kapcsolatot létrehozni"
+
+msgid "voip_ib_microphone_muted"
+msgstr "Mikrofon kikapcsolva"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "Mikrofon bekapcsolva"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "Nincs elég szabad memória"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr ""
+"Nem lehet bejövőhívást fogadni.\n"
+"Nincs elég szabad memória."
+
+msgid "voip_ib_undefined_error"
+msgstr "Álltalános hiba"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "Fiókok"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr "Nemlehet hívást kezdeményezni."
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "Tárcsázó"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "Tárcsázó"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "Tárcsázó"
+
