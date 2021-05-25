@@ -1,0 +1,335 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: rtcom-call-ui 20091019161422\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-04-27 23:43+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "مسح المؤقتات"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "لوحة الاتصال"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "اختيار جهة اتصال"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "رد"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "رفض"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "نوع الاتصال"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "هاتف متحرك"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "اتجاه العرض"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "تشغيل عند تدوير الجهاز"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "الكل"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "مكالمات الهاتف المتحرك"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "المرسل"
+
+msgid "call_fi_call_duration_received"
+msgstr "المستلم"
+
+msgid "call_fi_call_duration_voip"
+msgstr "مكالمات الإنترنت"
+
+msgid "call_fi_call_handling_camera"
+msgstr "الكاميرا"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "قفل الجهاز"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "مكالمة طوارئ"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – مكالمات الطوارئ"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "إنهاء"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "اتصال"
+
+msgid "call_fi_call_handling_headset"
+msgstr "وضع السماعة"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "على الانتظار"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "السماعة الخارجية"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "خاص"
+
+msgid "call_fi_call_header_active_call"
+msgstr "مكالمة مفعلة"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "مكالمة مفعلة"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "مكالمة جماعية"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "مكالمة جماعية"
+
+msgid "call_fi_call_header_ending"
+msgstr "إنهاء"
+
+msgid "call_fi_call_header_held_call"
+msgstr "على الانتظار"
+
+msgid "call_fi_call_header_video_call"
+msgstr "مكالمة مرئية"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "رقم خاطئ"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "الهاتف المتحرك"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "آلي"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "عامودي"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "لا يوجد حسابات"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "لا يوجد مكالمات مؤخراً"
+
+msgid "call_ib_account_not_in_use"
+msgstr "الحساب غير مستخدم"
+
+msgid "call_ib_als_wrong_line"
+msgstr " SIM الخط الثاني غير مدعوم في بطاقة.  SIM غير بطاقة.."
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "نقل الصوت من سماعة الرأس إلى سماعة الجهاز"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "تم نقل الصوت إلى سماعة الرأس"
+
+msgid "call_ib_call_activated"
+msgstr "المكالمات النشطه"
+
+msgid "call_ib_call_on_hold"
+msgstr "تم تعليق المكالمة"
+
+msgid "call_ib_call_waiting"
+msgstr "المكالمة في الأنتظار"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "خطأ بالأتصال"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "الشبكة مشغولة"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "الرصيد محدود"
+
+msgid "call_ib_fdn_active"
+msgstr "المكالمة غير مسموح بها. حدد المكالمة النشطه."
+
+msgid "call_ib_not_allowed"
+msgstr "المكالمة غير مسموح بها"
+
+msgid "call_ib_not_available"
+msgstr "غير متوفره"
+
+msgid "call_ib_number_not_in_use"
+msgstr "الرقم غير مستخدم"
+
+msgid "call_ib_request_rejected"
+msgstr "الطلب مرفوض"
+
+msgid "call_ib_sending_dtmf"
+msgstr " DTMF أرسال"
+
+msgid "call_ib_w_not_supported"
+msgstr "غير مدعوم 'w' حرف"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "فتح بطاقة الأسم"
+
+msgid "call_me_context_menu_delete"
+msgstr "حذف"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "أتصال جديد بالأسم"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "أتصال جديد بالرقم"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "أغلاق السماعة الخارجية"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "تشغيل السماعة الخارجية"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "بدأ المكالمة الجماعية"
+
+msgid "call_me_menu_call_video_call"
+msgstr "تشغيل الفيديو"
+
+msgid "call_me_menu_merge_with"
+msgstr "دمج مع الأسم"
+
+msgid "call_me_menu_new_contact"
+msgstr "أسم جديد"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "تفعيل المكالمة"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "مسح المكالمات الأخيرة"
+
+msgid "call_me_menu_tools_duration"
+msgstr "مدة المكالمات"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "أنهاء المكالمة المعلقة"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "تعليق المكالمة"
+
+msgid "call_me_menu_turning_control"
+msgstr "ضبط التدوير"
+
+msgid "call_nc_clear_all_calls"
+msgstr "مسح المكالمات الأخيرة؟"
+
+msgid "call_nc_delete_call"
+msgstr "مسح من المكالمات الأخيرة؟"
+
+msgid "call_nc_end_call"
+msgstr "أنهاء المكالمة الحالية؟"
+
+msgid "call_nc_end_calls"
+msgstr "أنهاء المكالمات الحالية؟"
+
+msgid "call_ti_call_duration"
+msgstr "مدة المكالمات"
+
+msgid "call_ti_call_type"
+msgstr "نوع الأتصال"
+
+msgid "call_ti_set_turning_control"
+msgstr "ضبط التحويل"
+
+msgid "voip_ap_feature_name"
+msgstr "الهاتف"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "إغلاق"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "اتصال"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "إلغاء القفل"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "توصيل"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "اتصال"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "اتصال"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "مشغول"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "المكالمة لم تنشأ"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "تم فصل المكالمة"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "لم يتم الرد"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "المكالمة غير مصرح بها"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "عنوان غير صحيح"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "رقم غير معروف"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "أنهاء المكالمة الحالية لبدأ مكالمة جديده"
+
+msgid "voip_ib_call_not_supported"
+msgstr "تطبيق هذه المكالمة لايدعم الأتصال"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr " DTMF هذه المكالمة لاتدعم نغمة "
+
+msgid "voip_ib_error_in_contact"
+msgstr "غير قادر على تكوين الأتصال"
+
+msgid "voip_ib_microphone_muted"
+msgstr "كتم المايك"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "إلغاء كتم المايك"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "لايوجد مساحة كافية"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr ""
+"غير قابل على أستقبال المكالمة.\n"
+"لايوجد مساحة كافية."
+
+msgid "voip_ib_undefined_error"
+msgstr "خطأ عام"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "حسابات"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr ""
+"الترميز غير متوافق مع الطرف الآخر.\n"
+"غير قادر على بدأ الأتصال."
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "لوحة الاتصال"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "لوحة الاتصال"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "لوحة الاتصال"
+
