@@ -1,0 +1,354 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2011-11-06 15:24+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "صفر کردن شمارنده‌ها"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "صفحه‌ی شماره‌گیری"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "انتخاب مخاطب"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "پاسخگویی"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "رد تماس"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "نوع تماس"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "تلفنی"
+
+msgid "call_bd_send"
+msgstr "ارسال"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "تعیین جهت صفحه نمایش"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "اجرا با چرخش"
+
+msgid "call_bd_skip"
+msgstr "رد کردن"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "همه"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "تماس های تلفن"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "تماس های گرفته شده"
+
+msgid "call_fi_call_duration_received"
+msgstr "تماس های دریافتی"
+
+msgid "call_fi_call_duration_voip"
+msgstr "تماس اینترنتی"
+
+msgid "call_fi_call_handling_camera"
+msgstr "دوربین"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "دستگاه قفل شد"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "تماس ضروری"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – تماس ضروری"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "پایان"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "تماس"
+
+msgid "call_fi_call_handling_headset"
+msgstr "هدست"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "منتظر گذاشتن"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "بلندگو"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "محرمانه"
+
+msgid "call_fi_call_header_active_call"
+msgstr "تماس فعال"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "تماس فعال"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "کنفرانس"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "کنفرانس"
+
+msgid "call_fi_call_header_ending"
+msgstr "خاتمه دادن"
+
+msgid "call_fi_call_header_held_call"
+msgstr "منتظر گذاشتن"
+
+msgid "call_fi_call_header_video_call"
+msgstr "تماس ویدئویی"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "شماره نادرست است"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "تلفنی"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "خودکار"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "افقی"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "عمودی"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "حسابی موجود نیست"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "تماس جدیدی وجود ندارد"
+
+msgid "call_ib_account_not_in_use"
+msgstr "اکانت در حال استفاده نمی‌باشد"
+
+msgid "call_ib_als_wrong_line"
+msgstr "لاین دوم سیم کارت پشتیبانی نمی‌شود.لطفا سیم کارت را تعویض نمائید"
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "صدا از هدست به دستگاه منتقل شد"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "صدا از دستگاه به هدست منتقل شد"
+
+msgid "call_ib_call_activated"
+msgstr "تماس فعال شد"
+
+msgid "call_ib_call_on_hold"
+msgstr "تماس در انتظار قرار دارد"
+
+msgid "call_ib_call_waiting"
+msgstr "پشت خط"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "خطا در برقراری ارتباط"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "شبکه مشغول می‌باشد"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "بهای محدود شده ، به حد نصاب رسید"
+
+msgid "call_ib_fdn_active"
+msgstr "تماس قابل قبول نمی‌باشد.\"تماس ثابت\" فعال می‌باشد"
+
+msgid "call_ib_not_allowed"
+msgstr "تماس قابل قبول نمی‌باشد"
+
+msgid "call_ib_not_available"
+msgstr "در دسترس نیست"
+
+msgid "call_ib_number_not_in_use"
+msgstr "شماره در حال حاضر استفاده نمی‌شود"
+
+msgid "call_ib_request_not_completed"
+msgstr "درخواست به اتمام نرسید"
+
+msgid "call_ib_request_rejected"
+msgstr "درخواست رد شد"
+
+msgid "call_ib_sending_dtmf"
+msgstr "در حال ارسال DTMF"
+
+msgid "call_ib_service_code_not_supported"
+msgstr "کد سرویس پشتیبانی نمی‌شود"
+
+msgid "call_ib_w_not_supported"
+msgstr "حرف \"w\" پشتیبانی نمی‌شود"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "باز کردن کارت تماس مخاطب"
+
+msgid "call_me_context_menu_delete"
+msgstr "حذف"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "تماس جدید با مخاطب"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "تماس جدید با شماره"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "خاموش کردن بلندگو"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "روشن کردن بلندگو"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "برقراری کنفرانس"
+
+msgid "call_me_menu_call_video_call"
+msgstr "روشن کردن ویدئو"
+
+msgid "call_me_menu_merge_with"
+msgstr "ادغام با مخاطب"
+
+msgid "call_me_menu_new_contact"
+msgstr "مخاطب جدید"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "فعال کردن همگی"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "پاک کردن تماس‌های اخیر"
+
+msgid "call_me_menu_tools_duration"
+msgstr "شمارنده‌ی تماس‌ها"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "خاتمه دادن تماس قرار داده شده در حالت انتظار"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "نگه داشتن تماس"
+
+msgid "call_me_menu_turning_control"
+msgstr "کنترل چرخش"
+
+msgid "call_nc_clear_all_calls"
+msgstr "تماس‌های اخیر پاک شوند؟"
+
+msgid "call_nc_delete_call"
+msgstr "از تماس‌های اخیر حذف شود؟"
+
+msgid "call_nc_end_call"
+msgstr "تماس در حال انجام خاتمه یابد؟"
+
+msgid "call_nc_end_calls"
+msgstr "تماس‌های در حال انجام خاتمه یابند؟"
+
+msgid "call_nc_requesting"
+msgstr "در حال ارسال درخواست"
+
+msgid "call_ti_call_duration"
+msgstr "شمارنده‌های تماس"
+
+msgid "call_ti_call_type"
+msgstr "نوع تماس"
+
+msgid "call_ti_message"
+msgstr "پیام"
+
+msgid "call_ti_set_turning_control"
+msgstr "کنترل چرخش"
+
+msgid "voip_ap_feature_name"
+msgstr "تلفن"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "بستن"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "تماس"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "باز کردن"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "در حال برقراری ارتباط"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "در حال تماس"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "در حال تماس"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "مشغول است"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "تماس برقرار نشد"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "تماس قطع شد"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "پاسخ داده نشد"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "تماس غیر مجاز"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "آدرس نامعتبر است"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "شماره ناشناس"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "تماس موجود را پایان دهید تا بتوانید تماس جدید برقرار کنید"
+
+msgid "voip_ib_call_not_supported"
+msgstr "این برنامه‌ی تماس از تماس‌ها پشتیبانی نمی‌کند"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "تلفن از ملودی‌های DTMF پشتیبانی نمی‌کند"
+
+msgid "voip_ib_error_in_contact"
+msgstr "قادر به برقراری ارتباط  نمی‌باشد"
+
+msgid "voip_ib_microphone_muted"
+msgstr "صدای میکروفون قطع شد"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "صدای میکروفون وصل شد"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "حافظه کافی نیست"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr "قادر به قبول تماس‌های دریافتی نمی‌باشد.\nحافظه کافی نیست"
+
+msgid "voip_ib_undefined_error"
+msgstr "خطای عمومی"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "حساب‌ها"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr "کدک با طرف دیگر ناسازگار است.\nنمی‌توان تماس را آغاز نمود"
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "صفحه‌ی شماره گیری"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "صفحه‌ی شماره گیری"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "صفحه‌ی شماره گیری"
