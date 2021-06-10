@@ -1,0 +1,354 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-11-30 11:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "清除计时器"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "拨号键盘"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "选择联系人"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "接听"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "拒绝"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "通话类型"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "手机通信"
+
+msgid "call_bd_send"
+msgstr "传送"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "显示方向"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "启动转动"
+
+msgid "call_bd_skip"
+msgstr "略过"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "全部"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "手机通话"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "已拨电话"
+
+msgid "call_fi_call_duration_received"
+msgstr "已接来电"
+
+msgid "call_fi_call_duration_voip"
+msgstr "网络电话"
+
+msgid "call_fi_call_handling_camera"
+msgstr "照相机"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "设备锁定"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "紧急呼叫"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – 紧急呼叫"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "结束通话"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "呼叫"
+
+msgid "call_fi_call_handling_headset"
+msgstr "耳机"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "正在通话中"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "扬声器"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "私人"
+
+msgid "call_fi_call_header_active_call"
+msgstr "激活电话"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "激活电话"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "电话会议"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "电话会议"
+
+msgid "call_fi_call_header_ending"
+msgstr "结束"
+
+msgid "call_fi_call_header_held_call"
+msgstr "正在通话中"
+
+msgid "call_fi_call_header_video_call"
+msgstr "视频通话"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "不正确的号码"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "手机通信"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "自动"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "横向"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "竖屏"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "没有任何帐户"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "无近期通话"
+
+msgid "call_ib_account_not_in_use"
+msgstr "不能使用的账户"
+
+msgid "call_ib_als_wrong_line"
+msgstr "不支持线路2的SIM卡,请更换SIM卡"
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "音频从耳机传送到设备"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "音频转移到耳机"
+
+msgid "call_ib_call_activated"
+msgstr "呼叫激活"
+
+msgid "call_ib_call_on_hold"
+msgstr "正在通话中"
+
+msgid "call_ib_call_waiting"
+msgstr "呼叫等待"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "连接错误"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "网络繁忙"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "呼叫成本受限"
+
+msgid "call_ib_fdn_active"
+msgstr "呼叫未允许,请查看固定拨号是否出错."
+
+msgid "call_ib_not_allowed"
+msgstr "呼叫不允许"
+
+msgid "call_ib_not_available"
+msgstr "不适用"
+
+msgid "call_ib_number_not_in_use"
+msgstr "号码未启用"
+
+msgid "call_ib_request_not_completed"
+msgstr "请求未完成"
+
+msgid "call_ib_request_rejected"
+msgstr "要求被拒绝"
+
+msgid "call_ib_sending_dtmf"
+msgstr "发送 DTMF"
+
+msgid "call_ib_service_code_not_supported"
+msgstr "不支持的服务代码"
+
+msgid "call_ib_w_not_supported"
+msgstr "字母 'w' 未被支持"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "打开联系人名片"
+
+msgid "call_me_context_menu_delete"
+msgstr "删除"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "新建网络电话"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "新建手机通话"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "关闭扬声器"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "打开扬声器"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "启动电话会议"
+
+msgid "call_me_menu_call_video_call"
+msgstr "打开视频"
+
+msgid "call_me_menu_merge_with"
+msgstr "合并联系人"
+
+msgid "call_me_menu_new_contact"
+msgstr "新建联系人"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "启动呼叫"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "清除近期通话"
+
+msgid "call_me_menu_tools_duration"
+msgstr "通话计时器"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "结束保持的通话"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "保持通话"
+
+msgid "call_me_menu_turning_control"
+msgstr "启用方向控制"
+
+msgid "call_nc_clear_all_calls"
+msgstr "清除近期通话?"
+
+msgid "call_nc_delete_call"
+msgstr "从最近的通话中删除?"
+
+msgid "call_nc_end_call"
+msgstr "结束当前通话?"
+
+msgid "call_nc_end_calls"
+msgstr "结束当前通话?"
+
+msgid "call_nc_requesting"
+msgstr "请求中"
+
+msgid "call_ti_call_duration"
+msgstr "通话计时器"
+
+msgid "call_ti_call_type"
+msgstr "通话类型"
+
+msgid "call_ti_message"
+msgstr "讯息"
+
+msgid "call_ti_set_turning_control"
+msgstr "转向控制"
+
+msgid "voip_ap_feature_name"
+msgstr "电话"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "关闭"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "拨号"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "解锁"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "连接中"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "拨号中"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "拨号中"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "繁忙"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "没有建立呼叫"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "呼叫断开"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "没有回复"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "未经授权的电话"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "不正确的地址"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "未知号码"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "结束当前通话,开始新的呼叫"
+
+msgid "voip_ib_call_not_supported"
+msgstr "这种联系方式的应用程序暂不支持电话功能"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "呼叫不支持DTMF音"
+
+msgid "voip_ib_error_in_contact"
+msgstr "无法建立连接"
+
+msgid "voip_ib_microphone_muted"
+msgstr "麦克风静音"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "麦克风打开"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "没有足够的内存"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr "无法接受来电.\n没有足够的内存."
+
+msgid "voip_ib_undefined_error"
+msgstr "未知错误"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "帐户"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr "与其他参与方编码不兼容.\n无法启动呼叫."
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "拨号键盘"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "拨号键盘"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "拨号键盘"
