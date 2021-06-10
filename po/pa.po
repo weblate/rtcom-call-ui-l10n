@@ -1,0 +1,354 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-11-30 11:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "ਸਮਾਂ ਸਾਫ਼ ਕਰੋ"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "ਡਾਇਲ ਪੈਡ"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "ਸੰਪਰਕ ਚੁਣੋ"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "ਜਵਾਬ"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "ਰੱਦ ਕਰੋ"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "ਕਾਲ ਕਿਸਮ"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "ਸੈੱਲੂਲਰ"
+
+msgid "call_bd_send"
+msgstr "Send"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "ਡਿਸਪਲੇਅ ਘੁੰਮਾਓ"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "ਘੁੰਮਾ ਕੇ ਚਲਾਓ"
+
+msgid "call_bd_skip"
+msgstr "Skip"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "ਸਭ"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "ਸੈੱਲਫੋਨ ਕਾਲ"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "ਡਾਇਲ ਕੀਤੇ"
+
+msgid "call_fi_call_duration_received"
+msgstr "ਆਏ"
+
+msgid "call_fi_call_duration_voip"
+msgstr "ਇੰਟਰਨੈੱਟ ਕਾਲ"
+
+msgid "call_fi_call_handling_camera"
+msgstr "ਕੈਮਰਾ"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "ਜੰਤਰ ਕਾਲ ਹੈ"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "ਐਮਰਜੈਂਸੀ ਕਾਲ"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – ਐਮਰਜੈਂਸੀ ਕਾਲ"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "ਬੰਦ"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "ਕਾਲ"
+
+msgid "call_fi_call_handling_headset"
+msgstr "ਹੈੱਡਸੈੱਟ"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "ਹੋਲਡ ਹੈ"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "ਸਪੀਕਰ"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "ਪ੍ਰਾਈਵੇਟ"
+
+msgid "call_fi_call_header_active_call"
+msgstr "ਐਕਟਿਵ ਕਾਲ"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "ਐਕਟਿਵ ਕਾਲ"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "ਕਨਫਰੰਸ ਕਾਲ"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "ਕਨਫਰੰਸ ਕਾਲ"
+
+msgid "call_fi_call_header_ending"
+msgstr "ਬੰਦ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ"
+
+msgid "call_fi_call_header_held_call"
+msgstr "ਹੋਲਡ ਹੈ"
+
+msgid "call_fi_call_header_video_call"
+msgstr "ਵਿਡੀਓ ਕਾਲ"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "ਗਲਤ ਨੰਬਰ"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "ਸੈੱਲੂਲਰ"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "ਆਟੋਮੈਟਿਕ"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "Landscape"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "ਪੋਰਟਰੇਟ"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "ਅਕਾਊਂਟ ਨਹੀਂ"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "ਕੋਈ ਤਾਜ਼ਾ ਕਾਲ ਨਹੀਂ"
+
+msgid "call_ib_account_not_in_use"
+msgstr "ਅਕਾਊਂਟ ਵਰਤੋਂ ਅਧੀਨ ਨਹੀਂ"
+
+msgid "call_ib_als_wrong_line"
+msgstr "ਸਿਮ ਕਾਰਡ ਦੀ ਲਾਈਨ 2 ਸਹਾਇਕ ਨਹੀਂ। ਸਿਮ ਕਾਰਡ ਬਦਲੋ।"
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "ਆਡੀਓ ਹੈੱਡਸੈੱਟ ਤੋਂ ਜੰਤਰ ਉੱਤੇ ਬਦਲੀ ਗਈ।"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "ਆਡੀਓ ਹੈੱਡਸੈੱਟ ਉੱਤੇ ਬਦਲੀ ਗਈ"
+
+msgid "call_ib_call_activated"
+msgstr "ਕਾਲ ਐਕਟੀਵੇਟ ਹੈ"
+
+msgid "call_ib_call_on_hold"
+msgstr "ਕਾਲ ਹੋਲਡ ਉੱਤੇ ਹੈ"
+
+msgid "call_ib_call_waiting"
+msgstr "ਕਾਲ ਉਡੀਕ ਵਿੱਚ ਹੈ"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਗਲਤੀ"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "ਨੈੱਟਵਰਕ ਰੁੱਝਿਆ ਹੈ"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "ਕਾਲ ਲਿਮਟ ਆ ਗਈ"
+
+msgid "call_ib_fdn_active"
+msgstr "ਕਾਲ ਮਨਜ਼ੂਰ ਨਹੀਂ ਹੈ। ਪੱਕੇ ਨੰਬਰ ਹੀ ਡਾਇਲ ਹੋ ਸਕਦੇ ਹਨ।"
+
+msgid "call_ib_not_allowed"
+msgstr "ਕਾਲ ਮਨਜ਼ੂਰ ਨਹੀਂ ਹੈ"
+
+msgid "call_ib_not_available"
+msgstr "ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "call_ib_number_not_in_use"
+msgstr "ਨੰਬਰ ਵਰਤੋਂ ਵਿੱਚ ਨਹੀਂ ਹੈ"
+
+msgid "call_ib_request_not_completed"
+msgstr "Request not completed"
+
+msgid "call_ib_request_rejected"
+msgstr "ਮੰਗ ਰੱਦ ਕੀਤੀ ਗਈ"
+
+msgid "call_ib_sending_dtmf"
+msgstr "DTMF ਭੇਜਿਆ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "call_ib_service_code_not_supported"
+msgstr "Service code not supported"
+
+msgid "call_ib_w_not_supported"
+msgstr "'w' ਅੱਖਰ ਸਹਾਇਕ ਨਹੀਂ"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "ਸੰਪਰਕ ਕਾਰਡ ਖੋਲ੍ਹੋ"
+
+msgid "call_me_context_menu_delete"
+msgstr "ਹਟਾਓ"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "ਸੰਪਰਕ ਨੂੰ ਨਵੀਂ ਕਾਲ ਕਰੋ"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "ਨੰਬਰ ਨੂੰ ਨਵੀਂ ਕਾਲ ਕਰੋ"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "ਸਪੀਕਰ ਬੰਦ ਕਰੋ"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "ਸਪੀਕਰ ਚਾਲੂ ਕਰੋ"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "ਕਨਫਰੰਸ ਕਾਲ ਸ਼ੁਰੂ ਕਰੋ"
+
+msgid "call_me_menu_call_video_call"
+msgstr "ਵਿਡੀਓ ਚਾਲੂ ਕਰੋ"
+
+msgid "call_me_menu_merge_with"
+msgstr "ਸੰਪਰਕ ਵਿੱਚ ਮਿਲਾਓ"
+
+msgid "call_me_menu_new_contact"
+msgstr "ਨਵਾਂ ਸੰਪਰਕ"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "ਚਾਲੂ ਕਾਲ"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "ਤਾਜ਼ਾ ਕਾਲਾਂ ਸਾਫ਼ ਕਰੋ"
+
+msgid "call_me_menu_tools_duration"
+msgstr "ਕਾਲ ਸਮਾਂ"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "ਹੋਲਡ ਕੀਤੀ ਕਾਲ ਬੰਦ ਕਰੋ"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "ਕਾਲ ਹੋਲਡ ਕਰੋ"
+
+msgid "call_me_menu_turning_control"
+msgstr "ਘੁੰਮਾਉਣ ਕੰਟਰੋਲ"
+
+msgid "call_nc_clear_all_calls"
+msgstr "ਕੀ ਤਾਜ਼ਾ ਕਾਲਾਂ ਸਾਫ਼ ਕਰਨੀਆਂ ਹਨ?"
+
+msgid "call_nc_delete_call"
+msgstr "ਤਾਜ਼ਾ ਕਾਲਾਂ ਵਿੱਚੋਂ ਹਟਾਉਣਾ ਹੈ?"
+
+msgid "call_nc_end_call"
+msgstr "ਚਾਲੂ ਕਾਲ ਬੰਦ ਕਰਨੀ ਹੈ?"
+
+msgid "call_nc_end_calls"
+msgstr "ਚਾਲੂ ਕਾਲਾਂ ਬੰਦ ਕਰਨੀਆਂ ਹਨ?"
+
+msgid "call_nc_requesting"
+msgstr "Requesting"
+
+msgid "call_ti_call_duration"
+msgstr "ਕਾਲ ਸਮਾਂ"
+
+msgid "call_ti_call_type"
+msgstr "ਕਾਲ ਕਿਸਮ"
+
+msgid "call_ti_message"
+msgstr "Message"
+
+msgid "call_ti_set_turning_control"
+msgstr "ਘੁੰਮਾਉਣ ਕੰਟਰੋਲ"
+
+msgid "voip_ap_feature_name"
+msgstr "ਫੋਨ"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "ਬੰਦ ਕਰੋ"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "ਕਾਲ ਕਰੋ"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "ਅਣ-ਲਾਕ ਕਰੋ"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "ਕੁਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "ਕਾਲ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "ਕਾਲ ਕੀਤੀ ਜਾ ਰਹੀ ਹੈ"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "ਰੁੱਝੇ"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "ਕਾਲ ਕੀਤੀ ਨਹੀਂ ਜਾ ਸਕੀ"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "ਕਾਲ ਡਿਸ-ਕੁਨੈਕਟ ਹੋਈ"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "ਕੋਈ ਜਵਾਬ ਨਹੀਂ"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "ਅਣ-ਅਧਕਾਰਿਤ ਕਾਲ"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "ਗਲਤ ਐਡਰੈੱਸ"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "ਅਣਜਾਣ ਨੰਬਰ"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "ਨਵੀਂ ਕਾਲ ਕਰਨ ਲਈ ਮੌਜੂਦਾ ਕਾਲ ਬੰਦ ਕਰੋ"
+
+msgid "voip_ib_call_not_supported"
+msgstr "ਇਹ ਸੰਪਰਕ ਦੀ ਐਪਲੀਕੇਸ਼ਨ ਕਾਲ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "ਕਾਲ DTMF ਟੋਨ ਲਈ ਸਹਾਇਕ ਨਹੀਂ ਹੈ"
+
+msgid "voip_ib_error_in_contact"
+msgstr "ਕੁਨਕੈਸ਼ਨ ਬਣਾਉਣ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "voip_ib_microphone_muted"
+msgstr "ਮਾਈਕਰੋਫੋਨ ਬੰਦ ਹੈ"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "ਮਾਈਕਰੋਫੋਨ ਚਾਲੂ ਹੈ"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "ਲੋੜੀਦੀ ਮੈਮੋਰੀ ਨਹੀਂ ਹੈ"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr "ਆ ਰਹੀ ਕਾਲ ਨੂੰ ਮਨਜ਼ੂਰ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਹੈ।\nਚਾਹੀਦੀ ਮੈਮੋਰੀ ਉਪਲੱਬਧ ਨਹੀਂ।"
+
+msgid "voip_ib_undefined_error"
+msgstr "ਆਮ ਗਲਤੀ"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "ਅਕਾਊਂਟ"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr "ਕੋਡਕ ਹੋਰ ਪਾਰਟੀ ਨਾਲ ਅਨੁਕੂਲ ਨਹੀਂ ਹਨ।\nਕਾਲ ਕਰਨ ਲਈ ਅਸਮਰੱਥ"
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "ਡਾਇਲ ਪੈਡ"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "ਡਾਇਲ ਪੈਡ"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "ਡਾਇਲ ਪੈਡ"
