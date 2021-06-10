@@ -1,0 +1,354 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2012-05-26 18:25+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "Ачысціць таймеры"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "Клавіятура набору"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "Абраць кантакт"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "Адказаць"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "Адхіліць"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "Тып выкліку"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "Мабільны"
+
+msgid "call_bd_send"
+msgstr "Даслаць"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "Арыентацыя экрана"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "Запускаць пры павароце"
+
+msgid "call_bd_skip"
+msgstr "Прапусціць"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "Усе"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "Мабільныя выклікі"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "Набраныя"
+
+msgid "call_fi_call_duration_received"
+msgstr "Атрыманыя"
+
+msgid "call_fi_call_duration_voip"
+msgstr "Сеціўныя выклікі"
+
+msgid "call_fi_call_handling_camera"
+msgstr "Камера"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "Дэвайс заблакаваны"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "Экстраны выклік"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – Экстраны выклік"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "Скончыць"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "Выклікаць"
+
+msgid "call_fi_call_handling_headset"
+msgstr "Навушнікі"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "На ўтрыманні"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "Громкая сувязь"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "Прыватны"
+
+msgid "call_fi_call_header_active_call"
+msgstr "Актыўны выклік"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "Актыўны выклік"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "Канферэнцыйны выклік"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "Канферэнцыйны выклік"
+
+msgid "call_fi_call_header_ending"
+msgstr "Заканчэнне"
+
+msgid "call_fi_call_header_held_call"
+msgstr "На ўтрыманні"
+
+msgid "call_fi_call_header_video_call"
+msgstr "Відэавыклік"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "Няправільны нумар"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "Мабільны"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "Аўтаматычна"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "Ландшафтны"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "Партрэтны"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "Няма рахункаў"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "Няма нядаўніх выклікаў"
+
+msgid "call_ib_account_not_in_use"
+msgstr "Рахунак не выкарыстоўваецца"
+
+msgid "call_ib_als_wrong_line"
+msgstr "Лінія 2 на SIM карце не падтрымлівецца. Замяніце SIM карту."
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "Гук перадаецца ад гарнітуры да дэвайса"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "Гук перадаецца да гарнітуры"
+
+msgid "call_ib_call_activated"
+msgstr "Выклік актываваны"
+
+msgid "call_ib_call_on_hold"
+msgstr "Выклік на ўтрыманні"
+
+msgid "call_ib_call_waiting"
+msgstr "Чаканне выкліку"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "Памылка падлучэння"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "Сетка занятая"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "Мяжа кошту дасягнутая"
+
+msgid "call_ib_fdn_active"
+msgstr "Выклік не дазволены. Фіксаваны набор актыўны"
+
+msgid "call_ib_not_allowed"
+msgstr "Выклік не дазволены"
+
+msgid "call_ib_not_available"
+msgstr "Недаступны"
+
+msgid "call_ib_number_not_in_use"
+msgstr "Нумар не выкарыстоўваецца"
+
+msgid "call_ib_request_not_completed"
+msgstr "Запрос не завершаны"
+
+msgid "call_ib_request_rejected"
+msgstr "Запрос адхілены"
+
+msgid "call_ib_sending_dtmf"
+msgstr "Дасыланне DTMF"
+
+msgid "call_ib_service_code_not_supported"
+msgstr "Код службы не падтрымліваецца"
+
+msgid "call_ib_w_not_supported"
+msgstr "Літара 'w' не падтрымліваецца"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "Адчыніць візтную картку"
+
+msgid "call_me_context_menu_delete"
+msgstr "Выдаліць"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "Новы выклік кантакту"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "Новы выклік на нумар"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "Выключыць мікрафон"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "Уключыць мікрафон"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "Пачаць канферэнцыйны выклік"
+
+msgid "call_me_menu_call_video_call"
+msgstr "Уключыць відэа"
+
+msgid "call_me_menu_merge_with"
+msgstr "Аб'яднаць з кантактам"
+
+msgid "call_me_menu_new_contact"
+msgstr "Новы кантакт"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "Актываваць выклік"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "Ачыцсціць нядаўнія выклікі"
+
+msgid "call_me_menu_tools_duration"
+msgstr "Таймеры выклікаў"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "Завяршыць утрыманне выкліку"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "Утрыманне выкліку"
+
+msgid "call_me_menu_turning_control"
+msgstr "Кіраванне паваротам"
+
+msgid "call_nc_clear_all_calls"
+msgstr "Ачысціць нядаўнія выклікі?"
+
+msgid "call_nc_delete_call"
+msgstr "Выдаліць з нядаўніх выклікаў?"
+
+msgid "call_nc_end_call"
+msgstr "Завяршыць бягучы выклік?"
+
+msgid "call_nc_end_calls"
+msgstr "Завяршыць бягучыя выклікі?"
+
+msgid "call_nc_requesting"
+msgstr "Запрашэнне"
+
+msgid "call_ti_call_duration"
+msgstr "Таймеры выклікаў"
+
+msgid "call_ti_call_type"
+msgstr "Тып выкліку"
+
+msgid "call_ti_message"
+msgstr "Паведамленне"
+
+msgid "call_ti_set_turning_control"
+msgstr "Кіраванне паваротам"
+
+msgid "voip_ap_feature_name"
+msgstr "Тэлефон"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "Зачыніць"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "Выклікаць"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "Разблакаваць"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "Падучэнне"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "Выклік"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "Выклік"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "Заняты"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "Выклік не ўсталяваны"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "Вклік адключаны"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "Няма адказу"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "Неаўтарызаваны выклік"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "Няправільны адрас"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "Няправільны нумар"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "Завяршыце бягучы выклік, каб пачаць наступны"
+
+msgid "voip_ib_call_not_supported"
+msgstr "Пратакол гэтага кантакта не падтрымлівае выклікі"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "Выклікі не падтрымліваюць DTMF сігналы"
+
+msgid "voip_ib_error_in_contact"
+msgstr "Немагчыма ўсталяваць падлучэнне"
+
+msgid "voip_ib_microphone_muted"
+msgstr "Мікрафон выключаны"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "Мікрафон уключаны"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "Не хапае памяці"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr "Немагчыма прыняць уваходны выклік.\nНе хапае памяці."
+
+msgid "voip_ib_undefined_error"
+msgstr "Агульная памылка"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "Рахункі"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr "Кодэк несумяшчальная з іншага боку.\nНемагчыма пачаць выклік."
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "Клавіятура набору"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "Клавіятура набору"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "Клавіятура набору"
