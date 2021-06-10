@@ -1,0 +1,354 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-11-30 11:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: Catalan (http://www.transifex.net/projects/p/n900-extra-translations/language/ca/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ca\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "Neteja els temporitzadors"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "Tauler de marcatge"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "Selecciona el contacte"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "Respon"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "Rebutja"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "Tipus de trucada"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "Mòbil"
+
+msgid "call_bd_send"
+msgstr "Envia"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "Orientació de la pantalla"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "Executa en girar"
+
+msgid "call_bd_skip"
+msgstr "Omet"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "Totes"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "Trucades de mòbil"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "Marcades"
+
+msgid "call_fi_call_duration_received"
+msgstr "Rebudes"
+
+msgid "call_fi_call_duration_voip"
+msgstr "Trucades d'Internet"
+
+msgid "call_fi_call_handling_camera"
+msgstr "Càmera"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "Dispositiu bloquejat"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "Trucada d'emergència"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – Trucada d'emergència"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "Finalitza"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "Truca"
+
+msgid "call_fi_call_handling_headset"
+msgstr "Auriculars"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "En espera"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "Altaveu"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "Privada"
+
+msgid "call_fi_call_header_active_call"
+msgstr "Trucada activa"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "Trucada activa"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "Teleconferència"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "Teleconferència"
+
+msgid "call_fi_call_header_ending"
+msgstr "S'està finalitzant"
+
+msgid "call_fi_call_header_held_call"
+msgstr "En espera"
+
+msgid "call_fi_call_header_video_call"
+msgstr "Videoconferència"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "Número incorrecte"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "Mòbil"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "Automàtic"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "Apaïsat"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "Vertical"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "No hi ha cap compte"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "No hi ha cap trucada recent"
+
+msgid "call_ib_account_not_in_use"
+msgstr "El compte no està en ús"
+
+msgid "call_ib_als_wrong_line"
+msgstr "No s'accepta la línia 2 de la targeta SIM. Canvieu la targeta SIM."
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "S'ha transferit l'àudio dels auriculars al dispositiu"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "S'ha transferit l'àudio als auriculars"
+
+msgid "call_ib_call_activated"
+msgstr "Trucada activada"
+
+msgid "call_ib_call_on_hold"
+msgstr "Trucada en espera"
+
+msgid "call_ib_call_waiting"
+msgstr "Trucada esperant"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "Error de connexió"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "La xarxa està ocupada"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "S'ha arribat al límit de cost."
+
+msgid "call_ib_fdn_active"
+msgstr "No es permet la trucada. El marcatge fixat està actiu."
+
+msgid "call_ib_not_allowed"
+msgstr "No es permet la trucada"
+
+msgid "call_ib_not_available"
+msgstr "No està disponible"
+
+msgid "call_ib_number_not_in_use"
+msgstr "El número no està en ús"
+
+msgid "call_ib_request_not_completed"
+msgstr "No s'ha completat la sol·licitud"
+
+msgid "call_ib_request_rejected"
+msgstr "S'ha rebutjat la sol·licitud"
+
+msgid "call_ib_sending_dtmf"
+msgstr "S'està enviant DTMF"
+
+msgid "call_ib_service_code_not_supported"
+msgstr "No s'accepta el codi de servei"
+
+msgid "call_ib_w_not_supported"
+msgstr "No s'accepta la lletra 'w'"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "Obre la targeta de contacte"
+
+msgid "call_me_context_menu_delete"
+msgstr "Suprimeix"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "Nova trucada al contacte"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "Nova trucada al número"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "Desactiva l'altaveu"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "Activa l'altaveu"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "Inicia la teleconferència"
+
+msgid "call_me_menu_call_video_call"
+msgstr "Activa el vídeo"
+
+msgid "call_me_menu_merge_with"
+msgstr "Fusiona amb el contacte"
+
+msgid "call_me_menu_new_contact"
+msgstr "Contacte nou"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "Activa la tefonada"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "Neteja les trucades recents"
+
+msgid "call_me_menu_tools_duration"
+msgstr "Temporitzadors de trucades"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "Reprèn la trucada"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "Posa en espera la trucada"
+
+msgid "call_me_menu_turning_control"
+msgstr "Control del gir"
+
+msgid "call_nc_clear_all_calls"
+msgstr "Voleu netejar les trucades recents?"
+
+msgid "call_nc_delete_call"
+msgstr "Voleu suprimir de les trucades recents?"
+
+msgid "call_nc_end_call"
+msgstr "Voleu finalitzar les trucades actives?"
+
+msgid "call_nc_end_calls"
+msgstr "Voleu finalitzar les trucades actives?"
+
+msgid "call_nc_requesting"
+msgstr "S'està sol·licitant"
+
+msgid "call_ti_call_duration"
+msgstr "Temporitzadors de trucades"
+
+msgid "call_ti_call_type"
+msgstr "Tipus de trucada"
+
+msgid "call_ti_message"
+msgstr "Missatge"
+
+msgid "call_ti_set_turning_control"
+msgstr "Control del gir"
+
+msgid "voip_ap_feature_name"
+msgstr "Telèfon"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "Tanca"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "Truca"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "Desbloqueja"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "S'està connectant"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "S'està trucant"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "S'està trucant"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "Ocupat"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "No s'ha establert la trucada"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "S'ha desconnectat la trucada"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "Sense resposta"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "Trucada no autoritzada"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "Adreça incorrecta"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "Número desconegut"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "Finalitza la trucada actual per iniciar-ne una altra"
+
+msgid "voip_ib_call_not_supported"
+msgstr "L'aplicació del contacte no accepta trucades"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "La trucada no accepta els tons DTMF"
+
+msgid "voip_ib_error_in_contact"
+msgstr "No es pot establir la connexió"
+
+msgid "voip_ib_microphone_muted"
+msgstr "Micròfon silenciat"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "Micròfon funcional"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "No hi ha memòria suficient"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr "No s'ha pogut acceptar la trucada entrant.\nNo hi ha memòria suficient."
+
+msgid "voip_ib_undefined_error"
+msgstr "Error general"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "Comptes"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr "El còdec és incompatible amb l'altre costat.\nNo es pot iniciar la trucada."
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "Tauler de marcatge"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "Tauler de marcatge"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "Tauler de marcatge"
