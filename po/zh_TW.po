@@ -1,0 +1,354 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-11-30 11:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "清除計時器"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "撥號鍵盤"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "選擇聯絡人"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "接聽"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "拒絕"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "通話類型"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "行動電話網路數據"
+
+msgid "call_bd_send"
+msgstr "傳送"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "顯示方向"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "使用自動旋轉"
+
+msgid "call_bd_skip"
+msgstr "略過"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "全部"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "行動電話通話"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "已撥電話"
+
+msgid "call_fi_call_duration_received"
+msgstr "已接來電"
+
+msgid "call_fi_call_duration_voip"
+msgstr "網路電話"
+
+msgid "call_fi_call_handling_camera"
+msgstr "視訊"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "裝置鎖定"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "緊急電話"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – 緊急電話"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "結束通話"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "通話"
+
+msgid "call_fi_call_handling_headset"
+msgstr "耳機"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "正在通話中"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "擴音器"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "私人"
+
+msgid "call_fi_call_header_active_call"
+msgstr "通話建立"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "通話建立"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "會議通話"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "會議通話"
+
+msgid "call_fi_call_header_ending"
+msgstr "結束"
+
+msgid "call_fi_call_header_held_call"
+msgstr "正在通話中"
+
+msgid "call_fi_call_header_video_call"
+msgstr "視訊通話"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "不正確的號碼"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "行動電話網路數據"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "自動"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "横向"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "影像"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "沒有任何帳號"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "無近期通話"
+
+msgid "call_ib_account_not_in_use"
+msgstr "不能使用的帳號"
+
+msgid "call_ib_als_wrong_line"
+msgstr "不支援線路2的SIM卡,請更換SIM卡"
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "聲音從耳機傳送到裝置"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "聲音傳送到耳機"
+
+msgid "call_ib_call_activated"
+msgstr "通話恢復"
+
+msgid "call_ib_call_on_hold"
+msgstr "通話保留"
+
+msgid "call_ib_call_waiting"
+msgstr "電話插撥"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "連線錯誤"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "網路忙碌"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "通話費用限制"
+
+msgid "call_ib_fdn_active"
+msgstr "通話未允許,請檢查固定撥號是否錯誤。"
+
+msgid "call_ib_not_allowed"
+msgstr "通話不允許"
+
+msgid "call_ib_not_available"
+msgstr "不適用"
+
+msgid "call_ib_number_not_in_use"
+msgstr "號碼未使用"
+
+msgid "call_ib_request_not_completed"
+msgstr "請求未完成"
+
+msgid "call_ib_request_rejected"
+msgstr "要求被拒絕"
+
+msgid "call_ib_sending_dtmf"
+msgstr "傳送 雙音多頻"
+
+msgid "call_ib_service_code_not_supported"
+msgstr "不支援的服務代碼"
+
+msgid "call_ib_w_not_supported"
+msgstr "字母 'w' 未被支援"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "開啟聯絡人名片"
+
+msgid "call_me_context_menu_delete"
+msgstr "刪除"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "新的通話聯絡"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "新的電話號碼"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "關閉擴音器"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "開啟擴音器"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "建立會議通話"
+
+msgid "call_me_menu_call_video_call"
+msgstr "開啟視訊"
+
+msgid "call_me_menu_merge_with"
+msgstr "合併聯絡人"
+
+msgid "call_me_menu_new_contact"
+msgstr "新的聯絡人"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "建立通話"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "清除近期通話"
+
+msgid "call_me_menu_tools_duration"
+msgstr "通話計時器"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "結束通話保留"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "通話保留"
+
+msgid "call_me_menu_turning_control"
+msgstr "使用自動旋轉"
+
+msgid "call_nc_clear_all_calls"
+msgstr "清除近期通話?"
+
+msgid "call_nc_delete_call"
+msgstr "從最近的通話中刪除?"
+
+msgid "call_nc_end_call"
+msgstr "結束正在進行的通話?"
+
+msgid "call_nc_end_calls"
+msgstr "結束正在進行的通話?"
+
+msgid "call_nc_requesting"
+msgstr "請求中"
+
+msgid "call_ti_call_duration"
+msgstr "通話計時器"
+
+msgid "call_ti_call_type"
+msgstr "通話類型"
+
+msgid "call_ti_message"
+msgstr "訊息"
+
+msgid "call_ti_set_turning_control"
+msgstr "自動旋轉"
+
+msgid "voip_ap_feature_name"
+msgstr "電話"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "關閉"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "撥號"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "解鎖"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "連接中"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "撥號中"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "撥號中"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "忙線中"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "沒有建立通話"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "通話中斷"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "沒有回復"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "未經授權的電話"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "不正確的地址"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "未知號碼"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "結束目前通話，開始新的通話"
+
+msgid "voip_ib_call_not_supported"
+msgstr "這種聯絡方式的應用程式暫不支援電話功能"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "通話不支援DTMF"
+
+msgid "voip_ib_error_in_contact"
+msgstr "無法建立連接"
+
+msgid "voip_ib_microphone_muted"
+msgstr "麥克風靜音"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "麥克風開啟"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "沒有足夠的記憶體"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr "無法接受來電.\n沒有足夠的記憶體."
+
+msgid "voip_ib_undefined_error"
+msgstr "未知錯誤"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "帳號"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr "編碼與群組不相容.\n無法建立通話."
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "撥號鍵盤"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "撥號鍵盤"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "撥號鍵盤"
