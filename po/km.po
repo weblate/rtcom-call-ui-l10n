@@ -1,0 +1,354 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2010-11-30 11:50+0000\n"
+"Last-Translator: \n"
+"Language-Team: Khmer (http://www.transifex.net/projects/p/n900-extra-translations/language/km/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: km\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "ជំរះថេរវេលាទាំងអស់"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "បន្ទះចុចលេខ"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "រកឈ្មោះទាក់ទង"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "ឆ្លើយតប"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "បដិសេធ"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "ទាក់ទងបែប"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "ទូរស័ព្ទចល័ត"
+
+msgid "call_bd_send"
+msgstr "Send"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "បង្ហាញបញ្ឈរ ឬផ្តេក"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "ដំណើរការដោយការបង្វែរទិស"
+
+msgid "call_bd_skip"
+msgstr "Skip"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "ទាំងអស់"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "ទូរស័ព្ទចល័តទាំងអស់"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "ទូរស័ព្ទចេញ"
+
+msgid "call_fi_call_duration_received"
+msgstr "ទូរស័ព្ទចូល"
+
+msgid "call_fi_call_duration_voip"
+msgstr "តាមអ៊ីនធើណិត"
+
+msgid "call_fi_call_handling_camera"
+msgstr "ម៉ាស៊ីនថត"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "ទូរស័ព្ទជាប់សោរ"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "ទូរស័ព្ទពេលមានអាសន្ន"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s – ទូរស័ព្ទពេលមានអាសន្ន"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "ឈប់សន្ទនា"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "ទូរស័ព្ទចេញ"
+
+msgid "call_fi_call_handling_headset"
+msgstr "កាសស្តាប់ត្រចៀក"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "រង់ចាំការសន្ទនា"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "គ្រឿងបំពងសំលេង"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "ឯកជនភាព"
+
+msgid "call_fi_call_header_active_call"
+msgstr "តភ្ជាប់វិញ"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "តភ្ជាប់វិញ"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "សន្ទនាជាលក្ខណៈប្រជុំ"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "សន្ទនាជាលក្ខណៈប្រជុំ"
+
+msgid "call_fi_call_header_ending"
+msgstr "កំពុងបញ្ឈប់"
+
+msgid "call_fi_call_header_held_call"
+msgstr "រង់ចាំការតភ្ជាប់"
+
+msgid "call_fi_call_header_video_call"
+msgstr "ហៅចេញជាមួយចលនារូបភាព"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "លេខទូរស័ព្ទមិនត្រឹមត្រូវ"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "ទូរស័ព្ទចល័ត"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "ស្វ័យប្រវត្តិ"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "Landscape"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "បញ្ឈរ"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "មិនមានគណនីយ"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "គ្មានការហៅពេលថ្មីៗ"
+
+msgid "call_ib_account_not_in_use"
+msgstr "គណនីយមិនបានប្រើ"
+
+msgid "call_ib_als_wrong_line"
+msgstr "ខ្សែទី 2 នៃ SIM កាតអាចប្រើបាន។ សូមប្តូរ SIM កាត។"
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "សំលេងបានបញ្ជូនពីកាសស្តាប់ត្រចៀកទៅទូរស័ព្ទ"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "សំលេងបានបញ្ជូនទៅកាសស្តាប់ត្រចៀក"
+
+msgid "call_ib_call_activated"
+msgstr "បានតភ្ជាប់ការសន្ទនា"
+
+msgid "call_ib_call_on_hold"
+msgstr "ការសន្ទនាបានដាក់ឲ្យរង់ចាំ"
+
+msgid "call_ib_call_waiting"
+msgstr "ការហៅចេញកុំពុងរង់ចាំ"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "ការតភ្ជាប់មានបញ្ហា"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "បណ្តាញជាប់រវល់"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "អស់ទឹកប្រាក់"
+
+msgid "call_ib_fdn_active"
+msgstr "មិនអនុញ្ញាត្តិការហៅ។ កំណត់ការហៅបានអនុញ្ញាត្តិ។"
+
+msgid "call_ib_not_allowed"
+msgstr "មិនអនុញ្ញាត្តិការហៅ"
+
+msgid "call_ib_not_available"
+msgstr "មិនទំនេរ"
+
+msgid "call_ib_number_not_in_use"
+msgstr "លេខមិនមានការប្រើប្រាស់"
+
+msgid "call_ib_request_not_completed"
+msgstr "Request not completed"
+
+msgid "call_ib_request_rejected"
+msgstr "ការស្នើសុំបានច្រានចោល"
+
+msgid "call_ib_sending_dtmf"
+msgstr "កំពុងផ្ញើរ DTMF"
+
+msgid "call_ib_service_code_not_supported"
+msgstr "Service code not supported"
+
+msgid "call_ib_w_not_supported"
+msgstr "អក្សរ 'w' មិនទទួលយកបាន"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "បើកកាតទំនាក់ទំនង"
+
+msgid "call_me_context_menu_delete"
+msgstr "លុបចេញ"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "ការហៅថ្មីទៅឈ្មោះ"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "ការហៅថ្មីទៅលេខ"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "បិទគ្រឿងបំពងសំលេង"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "បើកគ្រឿងបំពងសំលេង"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "បញ្ចូលជាលក្ខណៈប្រជុំ"
+
+msgid "call_me_menu_call_video_call"
+msgstr "បើកចលនារូបភាព"
+
+msgid "call_me_menu_merge_with"
+msgstr "បញ្ចូលជាមួយឈ្មោះ"
+
+msgid "call_me_menu_new_contact"
+msgstr "បញ្ចូលឈ្មោះថ្មី"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "តភ្ជាប់ការសន្ទនា"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "ជំរះការសន្ទនាថ្មីៗ"
+
+msgid "call_me_menu_tools_duration"
+msgstr "ថេរវេលាការសន្ទនា"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "បញ្ចប់ការសន្ទនាដែលកំពុងរង់ចាំ"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "ដាក់ការសន្ទនាឲ្យរង់ចាំ"
+
+msgid "call_me_menu_turning_control"
+msgstr "បញ្ជាដោយបង្វិល"
+
+msgid "call_nc_clear_all_calls"
+msgstr "ចង់ជំរះការសន្ទនាថ្មីៗ?"
+
+msgid "call_nc_delete_call"
+msgstr "ជំរះចេញពីការហៅថ្មីៗ?"
+
+msgid "call_nc_end_call"
+msgstr "បញ្ឈប់ការសន្ទនាកំពុងភ្ជាប់?"
+
+msgid "call_nc_end_calls"
+msgstr "បញ្ឈប់ការសន្ទនាកំពុងភ្ជាប់ទាំងអស់?"
+
+msgid "call_nc_requesting"
+msgstr "Requesting"
+
+msgid "call_ti_call_duration"
+msgstr "ថេរវេលាការសន្ទនា"
+
+msgid "call_ti_call_type"
+msgstr "ទាក់ទងបែប"
+
+msgid "call_ti_message"
+msgstr "Message"
+
+msgid "call_ti_set_turning_control"
+msgstr "បញ្ជាដោយបង្វិល"
+
+msgid "voip_ap_feature_name"
+msgstr "ទូរស័ព្ទ"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "បន្ទះចុចលេខ"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "ទូរស័ព្ទចេញ"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "ដោះសោរ"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "កំពុងតភ្ជាប់"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "កំពុងទូរស័ព្ទចេញ"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "កំពុងទូរស័ព្ទចេញ"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "ជាប់រវល់"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "ការហៅមិនអាភ្ជាប់"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "ការហៅបានផ្តាច់"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "មិនមានការឆ្លើយតប"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "ការហៅមិនអនុញ្ញាត្តិ"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "អាស័យដ្ឋានមិនត្រឹមត្រូវ"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "លេខទូរស័ព្ទមិនស្គាល់"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "បញ្ឈប់ការហៅនេះដើម្បីចាប់ផ្តើមការហៅថ្មី"
+
+msgid "voip_ib_call_not_supported"
+msgstr "កម្មវិធីទំនាក់ទំនងនេះមិនអាចដំណើរការហៅចេញ"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "ការហៅចេញមិនអាចប្រើ DTMF សំលេងបានទេ"
+
+msgid "voip_ib_error_in_contact"
+msgstr "មិនអាចបង្កើតការតភ្ជាប់បានទេ"
+
+msgid "voip_ib_microphone_muted"
+msgstr "បិទឧគ្ឃោសនស័ព្ឌ"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "បើកឧគ្ឃោសនស័ព្ឌ"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "អង្គចងចាំមិនគ្រប់គ្រាន់"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr "មិនអាចទទួលការហៅចូលបានទេ។\nអង្គចងចាំមិនគ្រប់គ្រាន់។"
+
+msgid "voip_ib_undefined_error"
+msgstr "បញ្ហាទូទៅ"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "គណនីយ"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr "លេខកូដមិនត្រូវគ្នានិងភាគីដ៏ទៃទៀត។\nមិនអាចចាប់ផ្តើមការហៅ។"
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "បន្ទះចុចលេខ"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "បន្ទះចុចលេខ"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "បន្ទះចុចលេខ"
