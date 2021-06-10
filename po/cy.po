@@ -1,0 +1,355 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.19 16:14+0300\n"
+"PO-Revision-Date: 2012-02-08 07:45+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "call_bd_call_duration_clear_timers"
+msgstr "Clirio amseryddion"
+
+msgid "call_bd_idle_view_dialpad"
+msgstr "Pad deialu"
+
+msgid "call_bd_idle_view_select_contact"
+msgstr "Dewis cyswllt"
+
+msgid "call_bd_incoming_call_answer"
+msgstr "Ateb"
+
+msgid "call_bd_incoming_call_reject"
+msgstr "Gwrthod"
+
+msgid "call_bd_manual_dial_call_type"
+msgstr "Math o alwad"
+
+msgid "call_bd_manual_dial_cellular"
+msgstr "Symudol"
+
+msgid "call_bd_send"
+msgstr "Gyrru"
+
+msgid "call_bd_set_turning_display_orientation"
+msgstr "Gogwydd sgrin"
+
+msgid "call_bd_set_turning_home_shortcut"
+msgstr "Agor drwy ogwyddo"
+
+msgid "call_bd_skip"
+msgstr "Hepgor"
+
+msgid "call_fi_call_duration_all_calls"
+msgstr "Oll"
+
+msgid "call_fi_call_duration_cellular"
+msgstr "Galwadau symudol"
+
+msgid "call_fi_call_duration_dialed"
+msgstr "Deialwyd"
+
+msgid "call_fi_call_duration_received"
+msgstr "Derbyniwyd"
+
+msgid "call_fi_call_duration_voip"
+msgstr "Galwadau gwe"
+
+msgid "call_fi_call_handling_camera"
+msgstr "Camera"
+
+msgid "call_fi_call_handling_device_locked"
+msgstr "Dyfais wedi ei gloi"
+
+msgid "call_fi_call_handling_emergency_call"
+msgstr "Galwad argyfwng"
+
+msgid "call_fi_call_handling_emergency_call_number"
+msgstr "%s - Galwad argyfwng"
+
+msgid "call_fi_call_handling_end_call"
+msgstr "Diwedd"
+
+msgid "call_fi_call_handling_fixed_title"
+msgstr "Galw"
+
+msgid "call_fi_call_handling_headset"
+msgstr "Penset"
+
+msgid "call_fi_call_handling_held_call"
+msgstr "Ar aros"
+
+msgid "call_fi_call_handling_speaker"
+msgstr "Uwch-seinydd"
+
+msgid "call_fi_call_handling_split_conference"
+msgstr "Preifat"
+
+msgid "call_fi_call_header_active_call"
+msgstr "Galwad weithredol"
+
+msgid "call_fi_call_header_active_call_portrait"
+msgstr "Galwad weithredol"
+
+msgid "call_fi_call_header_active_conference_call"
+msgstr "Galwad gynhadledd"
+
+msgid "call_fi_call_header_active_conference_call_portrait"
+msgstr "Galwad gynhadledd"
+
+msgid "call_fi_call_header_ending"
+msgstr "Yn gorffen"
+
+msgid "call_fi_call_header_held_call"
+msgstr "Ar aros"
+
+msgid "call_fi_call_header_video_call"
+msgstr "Galwad fideo"
+
+msgid "call_fi_call_summary_identifier_incorrect_number"
+msgstr "Rhif anhysbys"
+
+msgid "call_fi_call_type_audio"
+msgstr "%s"
+
+msgid "call_fi_call_type_cellular"
+msgstr "Symudol"
+
+msgid "call_fi_display_orientation_automatic"
+msgstr "Diofyn"
+
+msgid "call_fi_display_orientation_landscape"
+msgstr "Tirwedd"
+
+msgid "call_fi_display_orientation_portrait"
+msgstr "Darlun"
+
+msgid "call_fi_manual_dial_no_accounts"
+msgstr "Dim cyfrifon"
+
+msgid "call_ia_idle_view_no_calls"
+msgstr "Dim galwadau diweddar"
+
+msgid "call_ib_account_not_in_use"
+msgstr "Cyfrif ddim mewn defnydd"
+
+msgid "call_ib_als_wrong_line"
+msgstr "Ni gynhelir ail linell y cerdyn SIM. Newidiwch y cerdyn SIM."
+
+msgid "call_ib_audio_transferred_from_headset"
+msgstr "Trosglwyddwyd sain o'r penset i'r dyfais"
+
+msgid "call_ib_audio_transferred_to_headset"
+msgstr "Trosglwyddwyd sain i'r penset"
+
+msgid "call_ib_call_activated"
+msgstr "Galwad ar waith"
+
+msgid "call_ib_call_on_hold"
+msgstr "Galwad ar aros"
+
+msgid "call_ib_call_waiting"
+msgstr "Galwad yn aros"
+
+msgid "call_ib_cellular_connection_error"
+msgstr "Gwall cysylltiad"
+
+msgid "call_ib_cellular_network_busy"
+msgstr "Rhwydwaith brysur"
+
+msgid "call_ib_cost_limit_reached"
+msgstr "Cyrhaeddwyd diben gost"
+
+msgid "call_ib_fdn_active"
+msgstr "Ni ganiateir yr alwad. Deialu cyfyngedig yn weithredol."
+
+msgid "call_ib_not_allowed"
+msgstr "Ni ganiateir yr alwad"
+
+msgid "call_ib_not_available"
+msgstr "Ddim ar gael"
+
+msgid "call_ib_number_not_in_use"
+msgstr "Rhif ddim mewn defnydd"
+
+msgid "call_ib_request_not_completed"
+msgstr "Ni gyflawnwyd y cais"
+
+msgid "call_ib_request_rejected"
+msgstr "Gwrthodwyd y cais"
+
+msgid "call_ib_sending_dtmf"
+msgstr "Yn gyrru DTMF"
+
+msgid "call_ib_service_code_not_supported"
+msgstr "Ni gynhelir y cod gwasanaeth"
+
+msgid "call_ib_w_not_supported"
+msgstr "Ni gynhelir y lythyren 'w'"
+
+msgid "call_me_context_menu_contact_card"
+msgstr "Agor cerdyn cyswllt"
+
+msgid "call_me_context_menu_delete"
+msgstr "Dileu"
+
+msgid "call_me_menu_call_call_to_contact"
+msgstr "Galwad newydd a'r cyswllt"
+
+msgid "call_me_menu_call_call_to_number"
+msgstr "Galwad newydd a'r rhif"
+
+msgid "call_me_menu_call_speaker_off"
+msgstr "Diffodd uchelseinydd"
+
+msgid "call_me_menu_call_speaker_on"
+msgstr "Troi'r uchelseinydd ymlaen"
+
+msgid "call_me_menu_call_start_conference"
+msgstr "Dechrau galwad gynhadledd"
+
+msgid "call_me_menu_call_video_call"
+msgstr "Troi fideo ymlaen"
+
+msgid "call_me_menu_merge_with"
+msgstr "Cyfuno gyda chyswllt"
+
+msgid "call_me_menu_new_contact"
+msgstr "Cyswllt newydd"
+
+msgid "call_me_menu_tools_activate_call"
+msgstr "Gweithredu'r galwad"
+
+msgid "call_me_menu_tools_clear_list"
+msgstr "Clirio'r galwadau diweddar"
+
+msgid "call_me_menu_tools_duration"
+msgstr "Amseryddion galwadau"
+
+msgid "call_me_menu_tools_end_held_call"
+msgstr "Gorffen galwad sy'n aros"
+
+msgid "call_me_menu_tools_hold_call"
+msgstr "Rhoi'r alwad i aros"
+
+msgid "call_me_menu_turning_control"
+msgstr "Rheoliad gwrthdroi"
+
+msgid "call_nc_clear_all_calls"
+msgstr "Clirio galwadau diweddar?"
+
+msgid "call_nc_delete_call"
+msgstr "Tynnu o'r galwadau diweddar?"
+
+msgid "call_nc_end_call"
+msgstr "Gorffen galwad ar waith?"
+
+msgid "call_nc_end_calls"
+msgstr "Gorffen galwadau ar waith?"
+
+msgid "call_nc_requesting"
+msgstr "Yn ymgeisio"
+
+msgid "call_ti_call_duration"
+msgstr "Amseryddion galwadau"
+
+msgid "call_ti_call_type"
+msgstr "Math o alwad"
+
+msgid "call_ti_message"
+msgstr "Neges"
+
+msgid "call_ti_set_turning_control"
+msgstr "Rheoliad gwrthdroi"
+
+msgid "voip_ap_feature_name"
+msgstr "Ffôn"
+
+msgid "voip_bd_dtmf_dialpad_close"
+msgstr "Cau"
+
+msgid "voip_bd_manual_dial_ok"
+msgstr "Galw"
+
+msgid "voip_bv_call_handling_lock_enter_code"
+msgstr "Datgloi"
+
+msgid "voip_fi_call_header_connecting"
+msgstr "Yn cysylltu"
+
+msgid "voip_fi_call_header_initializing"
+msgstr "Yn galw"
+
+msgid "voip_fi_call_header_initializing_portrait"
+msgstr "Yn galw"
+
+msgid "voip_fi_call_summary_identifier_busy"
+msgstr "Prysur"
+
+msgid "voip_fi_call_summary_identifier_call_rejected"
+msgstr "Ni sefydlwyd galwad"
+
+msgid "voip_fi_call_summary_identifier_disconnected"
+msgstr "Datgysylltwyd yr alwad"
+
+msgid "voip_fi_call_summary_identifier_no_answer"
+msgstr "Dim ateb"
+
+msgid "voip_fi_call_summary_identifier_not_authorized"
+msgstr "Galwad diawdurdod"
+
+msgid "voip_fi_call_summary_identifier_not_found"
+msgstr "Cyfeiriad annilys"
+
+msgid "voip_fi_caller_information_unknown_caller"
+msgstr "Rhif anhysbys"
+
+msgid "voip_ib_call_not_possible_maximum_num_of_calls"
+msgstr "Gorfennwch yr alwad bresennol i ddechrau galwad newydd"
+
+msgid "voip_ib_call_not_supported"
+msgstr "Nid yw rhaglen y cyswllt yma'n cynnal galwadau"
+
+msgid "voip_ib_dtmf_not_supported"
+msgstr "Nid yw'r galwad yn cynnal tonau DTMF"
+
+msgid "voip_ib_error_in_contact"
+msgstr "Methu creu cysylltiad"
+
+msgid "voip_ib_microphone_muted"
+msgstr "Meicroffon wedi ei dawelu"
+
+msgid "voip_ib_microphone_unmuted"
+msgstr "Meicroffon heb ei dawelu"
+
+msgid "voip_ib_not_enough_memory"
+msgstr "Diffyg cof"
+
+msgid "voip_ib_not_enough_memory_missed_call"
+msgstr "Methu derbyn galwad. Diffyg cof."
+
+msgid "voip_ib_undefined_error"
+msgstr "Gwall cyffredinol"
+
+msgid "voip_me_menu_tools_accounts"
+msgstr "Cyfrifon"
+
+msgid "voip_ni_unable_to_negotiate_codec"
+msgstr "Codec anghydnaws gyda'r aelod arall. Methu dechrau galwad."
+
+msgid "voip_ti_dtmf_dialpad_title"
+msgstr "Pad deialu"
+
+msgid "voip_ti_manual_dial_title"
+msgstr "Pad deialu"
+
+msgid "voip_ti_manual_dial_title_portrait"
+msgstr "Pad deialu"
