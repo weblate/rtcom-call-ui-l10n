@@ -6,7 +6,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
 "issues/list\n"
 "POT-Creation-Date: 2009.10.19 16:14+0300\n"
-"PO-Revision-Date: 2022-08-14 02:23+0000\n"
+"PO-Revision-Date: 2022-08-15 07:23+0000\n"
 "Last-Translator: yangyangdaji <1504305527@qq.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "maemo-leste/rtcom-call-ui-l10n/zh_Hans/>\n"
@@ -135,13 +135,13 @@ msgid "call_fi_display_orientation_portrait"
 msgstr "竖屏"
 
 msgid "call_fi_manual_dial_no_accounts"
-msgstr "没有任何帐户"
+msgstr "没有任何账户"
 
 msgid "call_ia_idle_view_no_calls"
 msgstr "无近期通话"
 
 msgid "call_ib_account_not_in_use"
-msgstr "不能使用的帐户"
+msgstr "不能使用的账户"
 
 msgid "call_ib_als_wrong_line"
 msgstr "不支持线路2的SIM卡,请更换SIM卡"
@@ -342,7 +342,7 @@ msgid "voip_ib_undefined_error"
 msgstr "未知错误"
 
 msgid "voip_me_menu_tools_accounts"
-msgstr "帐户"
+msgstr "账户"
 
 msgid "voip_ni_unable_to_negotiate_codec"
 msgstr "与其他参与方编码不兼容.\n无法启动呼叫."
