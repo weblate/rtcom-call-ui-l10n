@@ -3,350 +3,356 @@ msgstr ""
 "Project-Id-Version: rtcom-call-ui 20091123110947\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.11.23 11:09+0200\n"
-"PO-Revision-Date: 2009.11.23 11:09+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-19 15:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"rtcom-call-ui-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "call_bd_call_duration_clear_timers"
-msgstr ""
+msgstr "டைமர்களை அழிக்கவும்"
 
 msgid "call_bd_idle_view_dialpad"
-msgstr ""
+msgstr "டயலிங் பேட்"
 
 msgid "call_bd_idle_view_select_contact"
-msgstr ""
+msgstr "தொடர்பைத் தேர்ந்தெடுக்கவும்"
 
 msgid "call_bd_incoming_call_answer"
-msgstr ""
+msgstr "பதில்"
 
 msgid "call_bd_incoming_call_reject"
-msgstr ""
+msgstr "நிராகரிக்கவும்"
 
 msgid "call_bd_manual_dial_call_type"
-msgstr ""
+msgstr "அழைப்பு வகை"
 
 msgid "call_bd_manual_dial_cellular"
-msgstr ""
+msgstr "செல்லுலார்"
 
 msgid "call_bd_send"
-msgstr ""
+msgstr "அனுப்பு"
 
 msgid "call_bd_set_turning_display_orientation"
-msgstr ""
+msgstr "காட்சி நோக்குநிலை"
 
 msgid "call_bd_set_turning_home_shortcut"
-msgstr ""
+msgstr "திருப்புவதன் மூலம் தொடங்கவும்"
 
 msgid "call_bd_skip"
-msgstr ""
+msgstr "தவிர்"
 
 msgid "call_fi_call_duration_all_calls"
-msgstr ""
+msgstr "அனைத்தும்"
 
 msgid "call_fi_call_duration_cellular"
-msgstr ""
+msgstr "மொபைல் அழைப்புகள்"
 
 msgid "call_fi_call_duration_dialed"
-msgstr ""
+msgstr "டயல்"
 
 msgid "call_fi_call_duration_received"
-msgstr ""
+msgstr "பெறப்பட்டது"
 
 msgid "call_fi_call_duration_voip"
-msgstr ""
+msgstr "இணைய அழைப்புகள்"
 
 msgid "call_fi_call_handling_camera"
-msgstr ""
+msgstr "கேமரா"
 
 msgid "call_fi_call_handling_device_locked"
-msgstr ""
+msgstr "சாதனம் பூட்டப்பட்டுள்ளது"
 
 msgid "call_fi_call_handling_emergency_call"
-msgstr ""
+msgstr "அவசர அழைப்பு"
 
 msgid "call_fi_call_handling_emergency_call_number"
-msgstr ""
+msgstr "%s - அவசர அழைப்பு"
 
 msgid "call_fi_call_handling_end_call"
-msgstr ""
+msgstr "முடிவு"
 
 msgid "call_fi_call_handling_fixed_title"
-msgstr ""
+msgstr "அழைப்பு"
 
 msgid "call_fi_call_handling_headset"
-msgstr ""
+msgstr "எட்செட்"
 
 msgid "call_fi_call_handling_held_call"
-msgstr ""
+msgstr "நிறுத்தி"
 
 msgid "call_fi_call_handling_speaker"
-msgstr ""
+msgstr "ஒலிபெருக்கி, ஒலிபரப்பி"
 
 msgid "call_fi_call_handling_split_conference"
-msgstr ""
+msgstr "தனிப்பட்ட"
 
 msgid "call_fi_call_header_active_call"
-msgstr ""
+msgstr "செயலில் அழைப்பு"
 
 msgid "call_fi_call_header_active_call_portrait"
-msgstr ""
+msgstr "செயலில் அழைப்பு"
 
 msgid "call_fi_call_header_active_conference_call"
-msgstr ""
+msgstr "மாநாட்டு அழைப்பு"
 
 msgid "call_fi_call_header_active_conference_call_portrait"
-msgstr ""
+msgstr "மாநாட்டு அழைப்பு"
 
 msgid "call_fi_call_header_ending"
-msgstr ""
+msgstr "முடிவு"
 
 msgid "call_fi_call_header_held_call"
-msgstr ""
+msgstr "நிறுத்தி"
 
 msgid "call_fi_call_header_video_call"
-msgstr ""
+msgstr "வீடியோ அழைப்பு"
 
 msgid "call_fi_call_summary_identifier_incorrect_number"
-msgstr ""
+msgstr "தவறான எண்"
 
 msgid "call_fi_call_type_audio"
-msgstr ""
+msgstr "%s"
 
 msgid "call_fi_call_type_cellular"
-msgstr ""
+msgstr "செல்லுலார்"
 
 msgid "call_fi_display_orientation_automatic"
-msgstr ""
+msgstr "தானியங்கி"
 
 msgid "call_fi_display_orientation_landscape"
-msgstr ""
+msgstr "நிலப்பரப்பு"
 
 msgid "call_fi_display_orientation_portrait"
-msgstr ""
+msgstr "உருவப்படம்"
 
 msgid "call_fi_manual_dial_no_accounts"
-msgstr ""
+msgstr "கணக்குகள் இல்லை"
 
 msgid "call_ia_idle_view_no_calls"
-msgstr ""
+msgstr "அண்மைக் கால அழைப்புகள் இல்லை"
 
 msgid "call_ib_account_not_in_use"
-msgstr ""
+msgstr "கணக்கு பயன்பாட்டில் இல்லை"
 
 msgid "call_ib_als_wrong_line"
-msgstr ""
+msgstr "சிம் கார்டின் வரி 2 ஆதரிக்கப்படவில்லை. சிம் கார்டை மாற்றவும்."
 
 msgid "call_ib_audio_transferred_from_headset"
-msgstr ""
+msgstr "ஆடியோ எட்செட்டிலிருந்து சாதனத்திற்கு மாற்றப்பட்டது"
 
 msgid "call_ib_audio_transferred_to_headset"
-msgstr ""
+msgstr "ஆடியோ எட்செட்டுக்கு மாற்றப்பட்டது"
 
 msgid "call_ib_call_activated"
-msgstr ""
+msgstr "அழைப்பு செயல்படுத்தப்பட்டது"
 
 msgid "call_ib_call_on_hold"
-msgstr ""
+msgstr "நிறுத்தி"
 
 msgid "call_ib_call_waiting"
-msgstr ""
+msgstr "காத்திருப்பதை அழைக்கவும்"
 
 msgid "call_ib_cellular_connection_error"
-msgstr ""
+msgstr "இணைப்பு பிழை"
 
 msgid "call_ib_cellular_network_busy"
-msgstr ""
+msgstr "பிணையம் பிசியாக"
 
 msgid "call_ib_cost_limit_reached"
-msgstr ""
+msgstr "செலவு வரம்பு எட்டப்பட்டது"
 
 msgid "call_ib_fdn_active"
-msgstr ""
+msgstr "அழைப்பு அனுமதிக்கப்படவில்லை. நிலையான டயலிங் செயலில்."
 
 msgid "call_ib_not_allowed"
-msgstr ""
+msgstr "அழைப்பு அனுமதிக்கப்படவில்லை"
 
 msgid "call_ib_not_available"
-msgstr ""
+msgstr "கிடைக்கவில்லை"
 
 msgid "call_ib_number_not_in_use"
-msgstr ""
+msgstr "பயன்பாட்டில் இல்லை"
 
 msgid "call_ib_request_not_completed"
-msgstr ""
+msgstr "கோரிக்கை முடிக்கப்படவில்லை"
 
 msgid "call_ib_request_rejected"
-msgstr ""
+msgstr "கோரிக்கை நிராகரிக்கப்பட்டது"
 
 msgid "call_ib_sending_dtmf"
-msgstr ""
+msgstr "டி.டி.எம்.எஃப் அனுப்புகிறது"
 
 msgid "call_ib_service_code_not_supported"
-msgstr ""
+msgstr "பணி குறியீடு ஆதரிக்கப்படவில்லை"
 
 msgid "call_ib_w_not_supported"
-msgstr ""
+msgstr "'W' கடிதம் ஆதரிக்கப்படவில்லை"
 
 msgid "call_me_context_menu_contact_card"
-msgstr ""
+msgstr "தொடர்பு அட்டையைத் திறக்கவும்"
 
 msgid "call_me_context_menu_delete"
-msgstr ""
+msgstr "நீக்கு"
 
 msgid "call_me_menu_call_call_to_contact"
-msgstr ""
+msgstr "தொடர்பு கொள்ள புதிய அழைப்பு"
 
 msgid "call_me_menu_call_call_to_number"
-msgstr ""
+msgstr "எண்ணுக்கு புதிய அழைப்பு"
 
 msgid "call_me_menu_call_speaker_off"
-msgstr ""
+msgstr "பேச்சாளரை அணைக்கவும்"
 
 msgid "call_me_menu_call_speaker_on"
-msgstr ""
+msgstr "பேச்சாளரை இயக்கவும்"
 
 msgid "call_me_menu_call_start_conference"
-msgstr ""
+msgstr "மாநாட்டு அழைப்பைத் தொடங்கவும்"
 
 msgid "call_me_menu_call_video_call"
-msgstr ""
+msgstr "வீடியோவை இயக்கவும்"
 
 msgid "call_me_menu_merge_with"
-msgstr ""
+msgstr "தொடர்புடன் ஒன்றிணைக்கவும்"
 
 msgid "call_me_menu_new_contact"
-msgstr ""
+msgstr "புதிய தொடர்பு"
 
 msgid "call_me_menu_tools_activate_call"
-msgstr ""
+msgstr "அழைப்பை செயல்படுத்தவும்"
 
 msgid "call_me_menu_tools_clear_list"
-msgstr ""
+msgstr "அண்மைக் கால அழைப்புகளை அழிக்கவும்"
 
 msgid "call_me_menu_tools_duration"
-msgstr ""
+msgstr "டைமர்களை அழைக்கவும்"
 
 msgid "call_me_menu_tools_end_held_call"
-msgstr ""
+msgstr "இறுதி அழைப்பு"
 
 msgid "call_me_menu_tools_hold_call"
-msgstr ""
+msgstr "அழைப்பை நடத்துங்கள்"
 
 msgid "call_me_menu_turning_control"
-msgstr ""
+msgstr "கட்டுப்பாட்டை திருப்புதல்"
 
 msgid "call_nc_clear_all_calls"
-msgstr ""
+msgstr "அண்மைக் கால அழைப்புகளை அழிக்கவா?"
 
 msgid "call_nc_delete_call"
-msgstr ""
+msgstr "அண்மைக் கால அழைப்புகளிலிருந்து நீக்கவா?"
 
 msgid "call_nc_end_call"
-msgstr ""
+msgstr "தற்போதைய அழைப்பை முடிக்கவா?"
 
 msgid "call_nc_end_calls"
-msgstr ""
+msgstr "நடந்துகொண்டிருக்கும் அழைப்புகளை முடிக்கவா?"
 
 msgid "call_nc_requesting"
-msgstr ""
+msgstr "கோருகிறது"
 
 msgid "call_ti_call_duration"
-msgstr ""
+msgstr "டைமர்களை அழைக்கவும்"
 
 msgid "call_ti_call_type"
-msgstr ""
+msgstr "அழைப்பு வகை"
 
 msgid "call_ti_message"
-msgstr ""
+msgstr "செய்தி"
 
 msgid "call_ti_set_turning_control"
-msgstr ""
+msgstr "கட்டுப்பாட்டை திருப்புதல்"
 
 msgid "voip_ap_feature_name"
-msgstr ""
+msgstr "தொலைபேசி"
 
 msgid "voip_bd_dtmf_dialpad_close"
-msgstr ""
+msgstr "மூடு"
 
 msgid "voip_bd_manual_dial_ok"
-msgstr ""
+msgstr "அழைப்பு"
 
 msgid "voip_bv_call_handling_lock_enter_code"
-msgstr ""
+msgstr "திறக்க"
 
 msgid "voip_fi_call_header_connecting"
-msgstr ""
+msgstr "இணைத்தல்"
 
 msgid "voip_fi_call_header_initializing"
-msgstr ""
+msgstr "அழைப்பு"
 
 msgid "voip_fi_call_header_initializing_portrait"
-msgstr ""
+msgstr "அழைப்பு"
 
 msgid "voip_fi_call_summary_identifier_busy"
-msgstr ""
+msgstr "பிசியாக"
 
 msgid "voip_fi_call_summary_identifier_call_rejected"
-msgstr ""
+msgstr "அழைப்பு நிறுவப்படவில்லை"
 
 msgid "voip_fi_call_summary_identifier_disconnected"
-msgstr ""
+msgstr "அழைப்பு துண்டிக்கப்பட்டது"
 
 msgid "voip_fi_call_summary_identifier_no_answer"
-msgstr ""
+msgstr "பதில் இல்லை"
 
 msgid "voip_fi_call_summary_identifier_not_authorized"
-msgstr ""
+msgstr "அங்கீகரிக்கப்படாததை அழைக்கவும்"
 
 msgid "voip_fi_call_summary_identifier_not_found"
-msgstr ""
+msgstr "தவறான முகவரி"
 
 msgid "voip_fi_caller_information_unknown_caller"
-msgstr ""
+msgstr "தெரியாத எண்"
 
 msgid "voip_ib_call_not_possible_maximum_num_of_calls"
-msgstr ""
+msgstr "புதிய அழைப்பைத் தொடங்க தற்போதைய அழைப்பை முடிக்கவும்"
 
 msgid "voip_ib_call_not_supported"
-msgstr ""
+msgstr "இந்த தொடர்பின் பயன்பாடு அழைப்புகளை ஆதரிக்காது"
 
 msgid "voip_ib_dtmf_not_supported"
-msgstr ""
+msgstr "அழைப்பு டிடிஎம்எஃப் டோன்களை ஆதரிக்காது"
 
 msgid "voip_ib_error_in_contact"
-msgstr ""
+msgstr "இணைப்பை நிறுவ முடியவில்லை"
 
 msgid "voip_ib_microphone_muted"
-msgstr ""
+msgstr "மைக்ரோஃபோன் முடக்கியது"
 
 msgid "voip_ib_microphone_unmuted"
-msgstr ""
+msgstr "மைக்ரோஃபோன் அசைக்கப்பட்டது"
 
 msgid "voip_ib_not_enough_memory"
-msgstr ""
+msgstr "போதுமான நினைவகம் இல்லை"
 
 msgid "voip_ib_not_enough_memory_missed_call"
 msgstr ""
+"உள்வரும் அழைப்பை ஏற்க முடியவில்லை.\n"
+" போதுமான நினைவகம் இல்லை."
 
 msgid "voip_ib_undefined_error"
-msgstr ""
+msgstr "பொதுவான பிழை"
 
 msgid "voip_me_menu_tools_accounts"
-msgstr ""
+msgstr "கணக்குகள்"
 
 msgid "voip_ni_unable_to_negotiate_codec"
 msgstr ""
+"கோடெக் மற்ற கட்சிகளுடன் பொருந்தாது.\n"
+" அழைப்பைத் தொடங்க முடியவில்லை."
 
 msgid "voip_ti_dtmf_dialpad_title"
-msgstr ""
+msgstr "டயலிங் பேட்"
 
 msgid "voip_ti_manual_dial_title"
-msgstr ""
+msgstr "டயலிங் பேட்"
 
 msgid "voip_ti_manual_dial_title_portrait"
-msgstr ""
+msgstr "டயலிங் பேட்"
